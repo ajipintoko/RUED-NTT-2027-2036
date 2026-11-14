@@ -1,0 +1,163 @@
+Type,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,2036,2037,2038
+PLTU,177,177,177,183,207,207,213,213,213,213,213,213,180
+PLTD,156.74,156.74,156.74,156.74,156.74,156.74,156.74,156.74,156.74,156.74,0,0,0
+PLTGas,130,280,360,360,390,390,440,470,470,470,590,680,820
+PLTP,18,18,18,40,70,90,150,190,190,190,180,180,180
+PLTM/MH,12.89,12.89,17.35,35.37,35.37,35.37,35.37,35.37,35.37,35.37,35.37,35.37,35.37
+PLTBio,0,0,0,5,5,5,5,5,5,5,5,5,5
+PLTS,55.7,85.7,96.7,96.7,107.7,117.7,137.7,207.7,207.7,207.7,207.7,207.7,207.7
+PLTB,3,25,25,28.3,28.3,28.3,50.3,50.3,50.3,50.3,50.3,50.3,50.3
+PLTLaut,0,0,20,20,20,20,20,20,20,20,20,20,20
+BESS,49,101,112,115.3,126.3,136.3,178.3,248.3,248.3,248.3,248.3,248.3,248.3
+
+Node ID,Node Name,Region,Type,Name,Category,Property,Units,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,2036,2037,2038,,,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,2036,2037,2038
+6,Ropa,Flores,PLTU,06_PLTU Ropa,PLTU Existing,Installed Capacity,MW,14,14,14,14,14,14,14,14,14,14,14,14,14,,BESS Candidate,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Panaf,Timor,PLTU,17_PLTU Timor,PLTU Existing,Installed Capacity,MW,100,100,100,100,100,100,100,100,100,100,100,100,100,,BESS Planned,49.00000000000001,101,112,115.3,126.3,136.29999999999998,178.29999999999998,248.29999999999998,248.29999999999998,248.29999999999998,248.29999999999998,248.29999999999998,248.29999999999998
+18,Bolok,Timor,PLTU,18_PLTU Bolok,PLTU Existing,Installed Capacity,MW,33,33,33,33,33,33,33,33,33,33,33,33,0,,PLTB Candidate,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Bolok,Timor,PLTU,18_PLTU Bolok IPP,PLTU Existing,Installed Capacity,MW,30,30,30,30,30,30,30,30,30,30,30,30,30,,PLTB Planned,3,25,25,28.3,28.3,28.3,50.3,50.3,50.3,50.3,50.3,50.3,50.3
+12,Kalabahi,Flores,PLTU,12_PLTU ALOR,PLTU Planned,Installed Capacity,MW,0,0,0,0,0,0,6,6,6,6,6,6,6,,PLTBio Candidate,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Atapupu,Timor,PLTU,27_PLTU ATAMBUA,PLTU Planned,Installed Capacity,MW,0,0,0,0,24,24,24,24,24,24,24,24,24,,PLTBio Planned,0,0,0,5,5,5,5,5,5,5,5,5,5
+28,Rote,Timor,PLTU,28_PLTU ROTE NDAO,PLTU Planned,Installed Capacity,MW,0,0,0,6,6,6,6,6,6,6,6,6,6,,PLTD Existing,156.73999999999998,156.73999999999998,156.73999999999998,156.73999999999998,156.73999999999998,156.73999999999998,156.73999999999998,156.73999999999998,156.73999999999998,156.73999999999998,0,0,0
+1,Labuanbajo,Flores,PLTD,01_PLTD Golobilas,PLTD Existing,Installed Capacity,MW,3.4,3.4,3.4,3.4,3.4,3.4,3.4,3.4,3.4,3.4,0,0,0,,PLTGas Candidate,0,0,0,0,20,20,20,20,20,20,140,230,370
+4,Bajawa,Flores,PLTD,04_PLTD Faobata,PLTD Existing,Installed Capacity,MW,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.2,0,0,0,,PLTGas Existing,100,100,100,100,100,100,100,100,100,100,100,100,100
+7,Ende,Flores,PLTD,07_PLTD Mautapaga,PLTD Existing,Installed Capacity,MW,3,3,3,3,3,3,3,3,3,3,0,0,0,,PLTGas Planned,30,180,260,260,270,270,320,350,350,350,350,350,350
+8,Maumere,Flores,PLTD,08_PLTD Wolomarang,PLTD Existing,Installed Capacity,MW,3,3,3,3,3,3,3,3,3,3,0,0,0,,PLTLaut Candidate,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Larantuka,Flores,PLTD,09_PLTD PLN Larantuka,PLTD Existing,Installed Capacity,MW,2.69,2.69,2.69,2.69,2.69,2.69,2.69,2.69,2.69,2.69,0,0,0,,PLTLaut Planned,0,0,20,20,20,20,20,20,20,20,20,20,20
+9,Larantuka,Flores,PLTD,09_PLTD Sewa Larantuka,PLTD Existing,Installed Capacity,MW,5,5,5,5,5,5,5,5,5,5,0,0,0,,PLTM/MH Candidate,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Adonara,Flores,PLTD,10_PLTD PLN Adonara,PLTD Existing,Installed Capacity,MW,6.49,6.49,6.49,6.49,6.49,6.49,6.49,6.49,6.49,6.49,0,0,0,,PLTM/MH Existing,7.539999999999999,7.539999999999999,7.539999999999999,7.539999999999999,7.539999999999999,7.539999999999999,7.539999999999999,7.539999999999999,7.539999999999999,7.539999999999999,7.539999999999999,7.539999999999999,7.539999999999999
+10,Adonara,Flores,PLTD,10_PLTD Sewa Adonara,PLTD Existing,Installed Capacity,MW,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,3.5,0,0,0,,PLTM/MH Planned,5.35,5.35,9.81,27.83,27.83,27.83,27.83,27.83,27.83,27.83,27.83,27.83,27.83
+11,Lembata,Flores,PLTD,11_PLTD PLN Lembata,PLTD Existing,Installed Capacity,MW,4.44,4.44,4.44,4.44,4.44,4.44,4.44,4.44,4.44,4.44,0,0,0,,PLTP Candidate,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Lembata,Flores,PLTD,11_PLTD Sewa Lembata,PLTD Existing,Installed Capacity,MW,4,4,4,4,4,4,4,4,4,4,0,0,0,,PLTP Existing,18,18,18,18,18,18,18,18,18,18,8,8,8
+12,Kalabahi,Flores,PLTD,12_PLTD PLN Kalabahi,PLTD Existing,Installed Capacity,MW,3.1,3.1,3.1,3.1,3.1,3.1,3.1,3.1,3.1,3.1,0,0,0,,PLTP Planned,0,0,0,22,52,72,132,172,172,172,172,172,172
+12,Kalabahi,Flores,PLTD,12_PLTD Sewa Kalabahi,PLTD Existing,Installed Capacity,MW,8,8,8,8,8,8,8,8,8,8,0,0,0,,PLTS Candidate,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Waikabubak,Sumba,PLTD,13_PLTD PLN Waikabubak,PLTD Existing,Installed Capacity,MW,7,7,7,7,7,7,7,7,7,7,0,0,0,,PLTS Existing,9.7,9.7,9.7,9.7,9.7,9.7,9.7,9.7,9.7,9.7,9.7,9.7,9.7
+13,Waikabubak,Sumba,PLTD,13_PLTD Sewa Waikabubak,PLTD Existing,Installed Capacity,MW,3,3,3,3,3,3,3,3,3,3,0,0,0,,PLTS Planned,46.00000000000001,76,87,87,98,108,128,197.99999999999997,197.99999999999997,197.99999999999997,197.99999999999997,197.99999999999997,197.99999999999997
+14,Tambolaka,Sumba,PLTD,14_PLTD PLN Tambolaka,PLTD Existing,Installed Capacity,MW,8,8,8,8,8,8,8,8,8,8,0,0,0,,PLTU Existing,177,177,177,177,177,177,177,177,177,177,177,177,144
+14,Tambolaka,Sumba,PLTD,14_PLTD Sewa Tambolaka,PLTD Existing,Installed Capacity,MW,5,5,5,5,5,5,5,5,5,5,0,0,0,,PLTU Planned,0,0,0,6,30,30,36,36,36,36,36,36,36
+15,Waingapu,Sumba,PLTD,15_PLTD PLN Waingapu,PLTD Existing,Installed Capacity,MW,15,15,15,15,15,15,15,15,15,15,0,0,0
+15,Waingapu,Sumba,PLTD,15_PLTD Sewa Waingapu,PLTD Existing,Installed Capacity,MW,8,8,8,8,8,8,8,8,8,8,0,0,0
+19,Tenau,Timor,PLTD,19_PLTD PLN Timor,PLTD Existing,Installed Capacity,MW,10.57,10.57,10.57,10.57,10.57,10.57,10.57,10.57,10.57,10.57,0,0,0
+19,Tenau,Timor,PLTD,19_PLTD Sewa Timor,PLTD Existing,Installed Capacity,MW,40,40,40,40,40,40,40,40,40,40,0,0,0
+25,Malaka,Timor,PLTD,25_PLTD Betun,PLTD Existing,Installed Capacity,MW,1.65,1.65,1.65,1.65,1.65,1.65,1.65,1.65,1.65,1.65,0,0,0
+25,Malaka,Timor,PLTD,25_PLTD Sewa Betun,PLTD Existing,Installed Capacity,MW,3,3,3,3,3,3,3,3,3,3,0,0,0
+28,Rote,Timor,PLTD,28_PLTD Rote,PLTD Existing,Installed Capacity,MW,1.54,1.54,1.54,1.54,1.54,1.54,1.54,1.54,1.54,1.54,0,0,0
+29,Sabu,Timor,PLTD,29_PLTD Sabu Seba,PLTD Existing,Installed Capacity,MW,3.16,3.16,3.16,3.16,3.16,3.16,3.16,3.16,3.16,3.16,0,0,0
+29,Sabu,Timor,PLTD,29_PLTD Sewa Sabu Seba,PLTD Existing,Installed Capacity,MW,2,2,2,2,2,2,2,2,2,2,0,0,0
+1,Labuanbajo,Flores,PLTGas,01_PLTMG Rangko,PLTGas Existing,Installed Capacity,MW,20,20,20,20,20,20,20,20,20,20,20,20,20
+8,Maumere,Flores,PLTGas,08_PLTMG Maumere,PLTGas Existing,Installed Capacity,MW,40,40,40,40,40,40,40,40,40,40,40,40,40
+17,Panaf,Timor,PLTGas,17_PLTMG Kupang Peaker,PLTGas Existing,Installed Capacity,MW,40,40,40,40,40,40,40,40,40,40,40,40,40
+1,Labuanbajo,Flores,PLTGas,01_PLTMG FLORES,PLTGas Planned,Installed Capacity,MW,0,30,30,30,30,30,30,30,30,30,30,30,30
+1,Labuanbajo,Flores,PLTGas,01_PLTMG FLORES 2,PLTGas Planned,Installed Capacity,MW,0,0,30,30,30,30,30,30,30,30,30,30,30
+1,Labuanbajo,Flores,PLTGas,01_PLTMG RANGKO 2,PLTGas Planned,Installed Capacity,MW,0,30,30,30,30,30,30,30,30,30,30,30,30
+12,Kalabahi,Flores,PLTGas,12_PLTMG ALOR,PLTGas Planned,Installed Capacity,MW,10,10,10,10,10,10,10,10,10,10,10,10,10
+12,Kalabahi,Flores,PLTGas,12_PLTMG ALOR 2,PLTGas Planned,Installed Capacity,MW,0,0,0,0,10,10,10,10,10,10,10,10,10
+15,Waingapu,Sumba,PLTGas,15_PLTMG SUMBA 1,PLTGas Planned,Installed Capacity,MW,0,30,30,30,30,30,30,30,30,30,30,30,30
+15,Waingapu,Sumba,PLTGas,15_PLTMG SUMBA 2,PLTGas Planned,Installed Capacity,MW,0,0,0,0,0,0,0,30,30,30,30,30,30
+15,Waingapu,Sumba,PLTGas,15_PLTMG WAINGAPU,PLTGas Planned,Installed Capacity,MW,10,10,10,10,10,10,10,10,10,10,10,10,10
+15,Waingapu,Sumba,PLTGas,15_PLTMG WAINGAPU 2,PLTGas Planned,Installed Capacity,MW,10,10,10,10,10,10,10,10,10,10,10,10,10
+16,Umalulu,Sumba,PLTGas,16_PLTMG SHRIMP FARMING UMALULU,PLTGas Planned,Installed Capacity,MW,0,30,30,30,30,30,30,30,30,30,30,30,30
+17,Panaf,Timor,PLTGas,17_PLTMG KUPANG 2,PLTGas Planned,Installed Capacity,MW,0,30,30,30,30,30,30,30,30,30,30,30,30
+17,Panaf,Timor,PLTGas,17_PLTMG TIMOR 2,PLTGas Planned,Installed Capacity,MW,0,0,50,50,50,50,50,50,50,50,50,50,50
+17,Panaf,Timor,PLTGas,17_PLTMG TIMOR 3,PLTGas Planned,Installed Capacity,MW,0,0,0,0,0,0,50,50,50,50,50,50,50
+1,Labuanbajo,Flores,PLTGas,01_PLTMG CANDIDATE Labuanbajo,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,40
+2,Ruteng,Flores,PLTGas,02_PLTMG CANDIDATE Ruteng,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Borong,Flores,PLTGas,03_PLTMG CANDIDATE Borong,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Bajawa,Flores,PLTGas,04_PLTMG CANDIDATE Bajawa,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Aesesa,Flores,PLTGas,05_PLTMG CANDIDATE Aesesa,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Ropa,Flores,PLTGas,06_PLTMG CANDIDATE Ropa,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Ende,Flores,PLTGas,07_PLTMG CANDIDATE Ende,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Maumere,Flores,PLTGas,08_PLTMG CANDIDATE Maumere,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Larantuka,Flores,PLTGas,09_PLTMG CANDIDATE Larantuka,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Adonara,Flores,PLTGas,10_PLTMG CANDIDATE Adonara,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,10,10,10,10,10,10,10,10,10
+11,Lembata,Flores,PLTGas,11_PLTMG CANDIDATE Lembata,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,10,10,10
+12,Kalabahi,Flores,PLTGas,12_PLTMG CANDIDATE Kalabahi,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,40,80,80
+13,Waikabubak,Sumba,PLTGas,13_PLTMG CANDIDATE Waikabubak,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,20
+14,Tambolaka,Sumba,PLTGas,14_PLTMG CANDIDATE Tambolaka,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Waingapu,Sumba,PLTGas,15_PLTMG CANDIDATE Waingapu,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Umalulu,Sumba,PLTGas,16_PLTMG CANDIDATE Umalulu,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,50,70,70
+17,Panaf,Timor,PLTGas,17_PLTMG CANDIDATE Panaf,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,20,20,20
+18,Bolok,Timor,PLTGas,18_PLTMG CANDIDATE Bolok,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,30,30
+19,Tenau,Timor,PLTGas,19_PLTMG CANDIDATE Tenau,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,10
+20,Maulafa,Timor,PLTGas,20_PLTMG CANDIDATE Maulafa,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Naibonat,Timor,PLTGas,21_PLTMG CANDIDATE Naibonat,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Amfoang,Timor,PLTGas,22_PLTMG CANDIDATE Amfoang,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Nonohonis,Timor,PLTGas,23_PLTMG CANDIDATE Nonohonis,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Kefamenanu,Timor,PLTGas,24_PLTMG CANDIDATE Kefamenanu,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Malaka,Timor,PLTGas,25_PLTMG CANDIDATE Malaka,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Atambua,Timor,PLTGas,26_PLTMG CANDIDATE Atambua,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,70
+27,Atapupu,Timor,PLTGas,27_PLTMG CANDIDATE Atapupu,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Rote,Timor,PLTGas,28_PLTMG CANDIDATE Rote,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Sabu,Timor,PLTGas,29_PLTMG CANDIDATE Sabu,PLTGas Candidate,Installed Capacity,MW,0,0,0,0,10,10,10,10,10,10,10,10,10
+2,Ruteng,Flores,PLTP,02_PLTP Ulumbu 1-4,PLTP Existing,Installed Capacity,MW,10,10,10,10,10,10,10,10,10,10,0,0,0
+7,Ende,Flores,PLTP,07_PLTP Sokoria,PLTP Existing,Installed Capacity,MW,8,8,8,8,8,8,8,8,8,8,8,8,8
+2,Ruteng,Flores,PLTP,02_PLTP ULUMBU 5,PLTP Planned,Installed Capacity,MW,0,0,0,0,20,20,20,20,20,20,20,20,20
+2,Ruteng,Flores,PLTP,02_PLTP ULUMBU 6,PLTP Planned,Installed Capacity,MW,0,0,0,0,0,0,20,20,20,20,20,20,20
+4,Bajawa,Flores,PLTP,04_PLTP MATALOKO,PLTP Planned,Installed Capacity,MW,0,0,0,0,0,20,20,20,20,20,20,20,20
+4,Bajawa,Flores,PLTP,04_PLTP TERSEBAR FLORES 1,PLTP Planned,Installed Capacity,MW,0,0,0,0,0,0,40,40,40,40,40,40,40
+4,Bajawa,Flores,PLTP,04_PLTP TERSEBAR FLORES 2,PLTP Planned,Installed Capacity,MW,0,0,0,0,0,0,0,30,30,30,30,30,30
+7,Ende,Flores,PLTP,07_PLTP SOKORIA FTP2,PLTP Planned,Installed Capacity,MW,0,0,0,22,22,22,22,22,22,22,22,22,22
+9,Larantuka,Flores,PLTP,09_PLTP OKA ILE,PLTP Planned,Installed Capacity,MW,0,0,0,0,0,0,0,10,10,10,10,10,10
+11,Lembata,Flores,PLTP,11_PLTP ATADEI 1-2,PLTP Planned,Installed Capacity,MW,0,0,0,0,10,10,10,10,10,10,10,10,10
+3,Borong,Flores,PLTM/MH,03_PLTM Sita,PLTM/MH Existing,Installed Capacity,MW,2.12,2.12,2.12,2.12,2.12,2.12,2.12,2.12,2.12,2.12,2.12,2.12,2.12
+4,Bajawa,Flores,PLTM/MH,04_PLMTH Wae Roa,PLTM/MH Existing,Installed Capacity,MW,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+7,Ende,Flores,PLTM/MH,07_PLTM Ndungga,PLTM/MH Existing,Installed Capacity,MW,1,1,1,1,1,1,1,1,1,1,1,1,1
+13,Waikabubak,Sumba,PLTM/MH,13_PLTM Lokomboro,PLTM/MH Existing,Installed Capacity,MW,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+13,Waikabubak,Sumba,PLTM/MH,13_PLTMH Umbuwango,PLTM/MH Existing,Installed Capacity,MW,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02
+13,Waikabubak,Sumba,PLTM/MH,13_PLTMH Wanokaka,PLTM/MH Existing,Installed Capacity,MW,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6
+2,Ruteng,Flores,PLTM/MH,02_PLTA FLORES TERSEBAR RUTENG,PLTM/MH Planned,Installed Capacity,MW,0,0,0,16,16,16,16,16,16,16,16,16,16
+2,Ruteng,Flores,PLTM/MH,02_PLTM FLORES TERSEBAR 1,PLTM/MH Planned,Installed Capacity,MW,0,0,3.06,3.06,3.06,3.06,3.06,3.06,3.06,3.06,3.06,3.06,3.06
+2,Ruteng,Flores,PLTM/MH,02_PLTM FLORES TERSEBAR 2,PLTM/MH Planned,Installed Capacity,MW,0,0,0,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22
+2,Ruteng,Flores,PLTM/MH,02_PLTM WAE LEGA RUTENG,PLTM/MH Planned,Installed Capacity,MW,1.75,1.75,1.75,1.75,1.75,1.75,1.75,1.75,1.75,1.75,1.75,1.75,1.75
+13,Waikabubak,Sumba,PLTM/MH,13_PLTM SUMBA PLN,PLTM/MH Planned,Installed Capacity,MW,0,0,0,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8
+15,Waingapu,Sumba,PLTM/MH,15_PLTM SUMBA TERSEBAR,PLTM/MH Planned,Installed Capacity,MW,3.6,3.6,3.6,3.6,3.6,3.6,3.6,3.6,3.6,3.6,3.6,3.6,3.6
+23,Nonohonis,Timor,PLTM/MH,23_PLTM TIMOR TERSEBAR 1,PLTM/MH Planned,Installed Capacity,MW,0,0,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4
+22,Amfoang,Timor,PLTBio,22_PLTBio TIMOR TERSEBAR,PLTBio Planned,Installed Capacity,MW,0,0,0,5,5,5,5,5,5,5,5,5,5
+6,Ropa,Flores,PLTS,06_PLTS IPP Wewaria,PLTS Existing,Installed Capacity,MW,1,1,1,1,1,1,1,1,1,1,1,1,1
+8,Maumere,Flores,PLTS,08_PLTS IPP Waigete,PLTS Existing,Installed Capacity,MW,1,1,1,1,1,1,1,1,1,1,1,1,1
+14,Tambolaka,Sumba,PLTS,14_PLTS Bilacenge,PLTS Existing,Installed Capacity,MW,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+15,Waingapu,Sumba,PLTS,15_PLTS Hambapraing,PLTS Existing,Installed Capacity,MW,1,1,1,1,1,1,1,1,1,1,1,1,1
+21,Naibonat,Timor,PLTS,21_PLTS Kupang Oelpuah,PLTS Existing,Installed Capacity,MW,5,5,5,5,5,5,5,5,5,5,5,5,5
+26,Atambua,Timor,PLTS,26_PLTS Atambua,PLTS Existing,Installed Capacity,MW,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,Labuanbajo,Flores,PLTS,01_PLTS FLORES TERSEBAR 1,PLTS Planned,Installed Capacity,MW,0,20,20,20,20,20,20,20,20,20,20,20,20
+1,Labuanbajo,Flores,PLTS,01_PLTS FLORES TERSEBAR 2,PLTS Planned,Installed Capacity,MW,0,0,0,0,10,10,10,10,10,10,10,10,10
+1,Labuanbajo,Flores,PLTS,01_PLTS FLORES TERSEBAR 3,PLTS Planned,Installed Capacity,MW,0,0,0,0,0,0,0,10,10,10,10,10,10
+1,Labuanbajo,Flores,PLTS,01_PLTS LABUAN BAJO,PLTS Planned,Installed Capacity,MW,10,10,10,10,10,10,10,10,10,10,10,10,10
+11,Lembata,Flores,PLTS,11_PLTS LEMBATA TERSEBAR,PLTS Planned,Installed Capacity,MW,6,6,6,6,6,6,6,6,6,6,6,6,6
+12,Kalabahi,Flores,PLTS,12_PLTS ALOR KALABAHI,PLTS Planned,Installed Capacity,MW,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2
+12,Kalabahi,Flores,PLTS,12_PLTS ALOR KALABAHI IPP,PLTS Planned,Installed Capacity,MW,0,0,0,0,1,1,1,1,1,1,1,1,1
+15,Waingapu,Sumba,PLTS,15_PLTS SUMBA TERSEBAR 1,PLTS Planned,Installed Capacity,MW,25,25,25,25,25,25,25,25,25,25,25,25,25
+15,Waingapu,Sumba,PLTS,15_PLTS SUMBA TERSEBAR 2,PLTS Planned,Installed Capacity,MW,0,0,0,0,0,10,10,10,10,10,10,10,10
+15,Waingapu,Sumba,PLTS,15_PLTS SUMBA TERSEBAR 3,PLTS Planned,Installed Capacity,MW,0,0,0,0,0,0,0,10,10,10,10,10,10
+20,Maulafa,Timor,PLTS,20_PLTS TIMOR TERSEBAR 1,PLTS Planned,Installed Capacity,MW,0,10,10,10,10,10,10,10,10,10,10,10,10
+20,Maulafa,Timor,PLTS,20_PLTS TIMOR TERSEBAR 2,PLTS Planned,Installed Capacity,MW,0,0,10,10,10,10,10,10,10,10,10,10,10
+20,Maulafa,Timor,PLTS,20_PLTS TIMOR TERSEBAR 3,PLTS Planned,Installed Capacity,MW,0,0,0,0,0,0,20,20,20,20,20,20,20
+23,Nonohonis,Timor,PLTS,23_PLTS TIMOR TERSEBAR 4,PLTS Planned,Installed Capacity,MW,0,0,0,0,0,0,0,50,50,50,50,50,50
+25,Malaka,Timor,PLTS,25_PLTS BETUN,PLTS Planned,Installed Capacity,MW,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+28,Rote,Timor,PLTS,28_PLTS ROTE TERSEBAR 1,PLTS Planned,Installed Capacity,MW,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2
+28,Rote,Timor,PLTS,28_PLTS ROTE TERSEBAR 2,PLTS Planned,Installed Capacity,MW,0,0,1,1,1,1,1,1,1,1,1,1,1
+15,Waingapu,Sumba,PLTB,15_PLTB SUMBA TIMUR TERSEBAR,PLTB Planned,Installed Capacity,MW,3,3,3,3,3,3,3,3,3,3,3,3,3
+17,Panaf,Timor,PLTB,17_PLTB TIMOR TERSEBAR,PLTB Planned,Installed Capacity,MW,0,0,0,0,0,0,22,22,22,22,22,22,22
+23,Nonohonis,Timor,PLTB,23_PLTB TIMOR NONOHONIS,PLTB Planned,Installed Capacity,MW,0,22,22,22,22,22,22,22,22,22,22,22,22
+24,Kefamenanu,Timor,PLTB,24_PLTB MAUBESI,PLTB Planned,Installed Capacity,MW,0,0,0,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3
+9,Larantuka,Flores,PLTLaut,09_PLTAL LARANTUKA TERSEBAR,PLTLaut Planned,Installed Capacity,MW,0,0,20,20,20,20,20,20,20,20,20,20,20
+1,Labuanbajo,Flores,BESS,01_4HrBESS PLTS FLORES TERSEBAR 1,BESS Planned,Generation Capacity,MW,0,20,20,20,20,20,20,20,20,20,20,20,20
+1,Labuanbajo,Flores,BESS,01_4HrBESS PLTS FLORES TERSEBAR 2,BESS Planned,Generation Capacity,MW,0,0,0,0,10,10,10,10,10,10,10,10,10
+1,Labuanbajo,Flores,BESS,01_4HrBESS PLTS FLORES TERSEBAR 3,BESS Planned,Generation Capacity,MW,0,0,0,0,0,0,0,10,10,10,10,10,10
+1,Labuanbajo,Flores,BESS,01_4HrBESS PLTS LABUAN BAJO,BESS Planned,Generation Capacity,MW,10,10,10,10,10,10,10,10,10,10,10,10,10
+11,Lembata,Flores,BESS,11_4HrBESS PLTS LEMBATA TERSEBAR,BESS Planned,Generation Capacity,MW,6,6,6,6,6,6,6,6,6,6,6,6,6
+12,Kalabahi,Flores,BESS,12_4HrBESS PLTS ALOR KALABAHI,BESS Planned,Generation Capacity,MW,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2
+12,Kalabahi,Flores,BESS,12_4HrBESS PLTS ALOR KALABAHI IPP,BESS Planned,Generation Capacity,MW,0,0,0,0,1,1,1,1,1,1,1,1,1
+15,Waingapu,Sumba,BESS,15_4HrBESS PLTB SUMBA TIMUR TERSEBAR 1,BESS Planned,Generation Capacity,MW,3,3,3,3,3,3,3,3,3,3,3,3,3
+15,Waingapu,Sumba,BESS,15_4HrBESS PLTS SUMBA TERSEBAR 1,BESS Planned,Generation Capacity,MW,25,25,25,25,25,25,25,25,25,25,25,25,25
+15,Waingapu,Sumba,BESS,15_4HrBESS PLTS SUMBA TERSEBAR 2,BESS Planned,Generation Capacity,MW,0,0,0,0,0,10,10,10,10,10,10,10,10
+15,Waingapu,Sumba,BESS,15_4HrBESS PLTS SUMBA TERSEBAR 3,BESS Planned,Generation Capacity,MW,0,0,0,0,0,0,0,10,10,10,10,10,10
+17,Panaf,Timor,BESS,17_4HrBESS PLTB TIMOR TERSEBAR,BESS Planned,Generation Capacity,MW,0,0,0,0,0,0,22,22,22,22,22,22,22
+20,Maulafa,Timor,BESS,20_4HrBESS PLTS TIMOR TERSEBAR 1,BESS Planned,Generation Capacity,MW,0,10,10,10,10,10,10,10,10,10,10,10,10
+20,Maulafa,Timor,BESS,20_4HrBESS PLTS TIMOR TERSEBAR 2,BESS Planned,Generation Capacity,MW,0,0,10,10,10,10,10,10,10,10,10,10,10
+20,Maulafa,Timor,BESS,20_4HrBESS PLTS TIMOR TERSEBAR 3,BESS Planned,Generation Capacity,MW,0,0,0,0,0,0,20,20,20,20,20,20,20
+23,Nonohonis,Timor,BESS,23_4HrBESS PLTB TIMOR NONOHONIS,BESS Planned,Generation Capacity,MW,0,22,22,22,22,22,22,22,22,22,22,22,22
+23,Nonohonis,Timor,BESS,23_4HrBESS PLTS TIMOR TERSEBAR 4,BESS Planned,Generation Capacity,MW,0,0,0,0,0,0,0,50,50,50,50,50,50
+24,Kefamenanu,Timor,BESS,24_4HrBESS PLTB MAUBESI,BESS Planned,Generation Capacity,MW,0,0,0,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3,3.3
+25,Malaka,Timor,BESS,25_4HrBESS PLTS BETUN,BESS Planned,Generation Capacity,MW,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+28,Rote,Timor,BESS,28_4HrBESS PLTS ROTE TERSEBAR 1,BESS Planned,Generation Capacity,MW,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2
+28,Rote,Timor,BESS,28_4HrBESS PLTS ROTE TERSEBAR 2,BESS Planned,Generation Capacity,MW,0,0,1,1,1,1,1,1,1,1,1,1,1

@@ -1,0 +1,5 @@
+Uraian,2019,2020,2021,2022,2023,2024,2025
+Penumpang (orang),1.774.313,949.839,923.031,1.226.285,1.371.347
+Kedatangan (trip),32.343,19.612,18.591,19.02,20.275
+Konsumsi Bahan Bakar (kiloliter) ,-,-,-,-,22.561
+"Sumber G3:H4: Export Key Assumption sheet, Key\Transportasi\Udara\Penumpang, Penumpang per trip, Konsumsi bahan bakar per trip (kolom 2024/2025). Kedatangan = Penumpang/Penumpang per trip; Konsumsi BBM (KL) = Kedatangan x Konsumsi per trip / 1000."

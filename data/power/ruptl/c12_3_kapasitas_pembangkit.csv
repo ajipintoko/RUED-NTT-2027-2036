@@ -1,0 +1,65 @@
+Pembangkit,Sistem Tenaga Listrik,Jumlah Unit,Total Kapasitas (MW),Daya Mampu Netto (MW),DMP Tertinggi 1 Tahun Terakhir (MW)
+PLN
+PLTU,Timor,4,133,127,127
+,Flores,1,14,14,14
+,Timor,5,16.37,10.57,10.57
+,Flores,22,13.15,10.15,10.15
+,Waingapu,15,9.35,8.13,7.9
+,Waikabubak,7,4.04,3.34,3.34
+,Waitabula,8,3.48,3.13,3.13
+,Larantuka,4,3.06,2.69,2.69
+,Adonara,13,8.13,6.49,6.49
+,Lembata,8,4.94,4.44,4.44
+,Kalabahi,3,3.44,3.1,3.1
+,Rote,2,2,1.54,1.54
+PLTD,Betun,4,1.83,1.65,1.65
+,Sabu Seba,6,3.51,3.16,3.16
+,Isolated Solor Timur,11,2.67,2.4,2.4
+,Isolated Pantar,19,5.89,5.3,5.3
+,Isolated Timor,22,4.42,3.97,3.97
+,Isolated Flores,32,6.11,5.52,5.52
+,Isolated Sumba,30,2.76,2.45,2.45
+,Isolated Alor,19,2.51,2.26,2.26
+,Isolated Rote,4,0.54,0.49,0.49
+,Isolated Raijua,5,0.72,0.64,0.64
+,Isolated Lembata,8,1.43,1.28,1.28
+PLTM,Flores,4,2.28,2.12,2.12
+,Sumba,8,2.9,2.53,2.53
+PLTP,Ruteng,4,10,10,10
+PLTMG,Flores,7,70.49,60,60
+,Timor,4,48.95,40,40
+,Timor Tersebar,3,0.68,0.34,0.34
+,Flores Tersebar,19,5.79,5.02,5.02
+,Sumba Tersebar,7,0.89,0.68,0.68
+PLTS,Alor Tersebar,9,1.45,1.26,1.26
+,Rote Tersebar,3,0.23,0.2,0.2
+,Lembata,1,0.2,0.18,0.18
+,Solor Barat,1,0.25,0.05,0.05
+,Jumlah PLN,323,341.45,296.09,295.87
+IPP
+PLTU,Timor,2,30,30,30
+PLTP,Flores,2,8,8,8
+PLTMH,Flores,1,0.5,0.3,0.3
+PLTM,Flores,2,1,1,1
+PLTMH,Sumba,1,0.02,0.02,0.02
+,Timor,2,6,4.6,4.6
+PLTS,Flores,2,2,1.4,1.4
+,Sumba,1,1,0.8,0.8
+,Jumlah IPP,13,48.52,46.12,46.12
+Sewa
+PLTD,Larantuka,1,5,5,5
+,Timor,1,40,40,40
+,Adonara,1,3.5,3.5,3.5
+,Lembata,1,4,4,4
+,Solor Timur,1,1,1,1
+,Omesuri,1,1,1,1
+,Reo,1,1.5,1.5,1.5
+,Rote,1,5,5,5
+,Kalabahi,1,8,8,8
+,Waikabubak,1,3,3,3
+,Waitabula,2,5,5,5
+,Waingapu,2,8,8,8
+,Sabu Seba,1,2,2,2
+,Betun,1,3,3,3
+,Jumlah Sewa,18,90,90,90
+Total,,354,479.97,432.21,431.99

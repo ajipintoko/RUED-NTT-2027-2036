@@ -1,0 +1,50 @@
+Hasil Pemodelan Kebutuhan dan Pasokan Energi Region Nusa Tenggara Tahun 2035
+
+PRODUKSI
+Sumber,MTOE
+Minyak Bumi*
+Gas Bumi*,0.4
+Batubara,1.3
+EBT**
+*) Skenario Mid-Case; **) Di luar energi primer pembangkit EBT
+
+PASOKAN
+Sumber,MTOE,%
+Minyak Bumi,1.6,24
+Gas Bumi,0.8,12
+Batubara,1.3,18
+EBT,3.1,46
+Total,6.800000000000001,100
+
+ENERGI FINAL (Kebutuhan per Jenis Energi)
+Jenis Energi,MTOE,%
+Listrik,1,26
+Gas,0.3,8
+BBM,1.6,44
+Batubara,0.2,6
+BBN,0.5,14
+ET Lainnya,0.1,2
+Total,3.7000000000000006,100
+
+KEBUTUHAN (per Sektor)
+Sektor,MTOE,%
+Transportasi,2,54
+Industri*,0.6,16
+Komersial,0.2,7
+Rumah Tangga,0.8,22
+Lainnya,0,1
+Total,3.6000000000000005,100
+*) Termasuk Bahan Baku (Industri)
+
+TRANSFORMASI (Kapasitas Infrastruktur)
+Komponen,Nilai,Satuan
+Pembangkit EBT*,5.31,GW
+Pembangkit Fosil*,2.57,GW
+BESS,7.72,GWh
+Kilang Minyak,-,Juta BOPD (Input)
+Kilang LNG,-,MMSCFD (Output)
+
+LINGKUNGAN
+Indikator,Nilai,Satuan
+Emisi GRK,10.87,Juta Ton CO2e
+Intensitas Energi,15.12,TOE/Miliar Rupiah

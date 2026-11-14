@@ -1,0 +1,18 @@
+No,Jenis Bahan Bakar,Satuan,Tahun,,,,,Ket.
+,,,2021,2022,2023,2024,2025
+1,Minyak Bensin 88,KL,160.804,-,-,-,-,Subsidi
+2,Minyak Bensin 90,KL,165.275,348.63,351.41,353555.278,341654,Subsidi
+3,Minyak Bensin 92,KL,40.802,34.498,32.381,45169.101,60167,Non Subsidi
+4,Minyak Solar 48,KL,7.825,24.771,1.64,16528.654,11718,Non Subsidi
+5,Minyak Solar 51,KL,2.593,-,-,-,-,Non Subsidi
+6,Minyak Solar 53,KL,7.674,-,15.366,-,16722,Non Subsidi
+7,Biogasoil (B30),KL,348.999,344.794,401.938,-,-,Subsidi
+9,Biogasoil (B35),KL,-,-,-,277957.5682,-,-
+10,Biogasoil (B40),KL,-,-,-,-,431737,-
+11,Minyak bakar 180/360,KL,38.949,26.603,36.539,24490.329,22912,Non Subsidi
+12,Minyak Tanah,KL,108.412,109.266,109.458,110608.6,110641,Subsidi
+13,Avtur,KL,-,31023.7002,36451.918,32646.187,399,Non Subsidi
+14,LPG,MT,"1.559,00","1.796,02","1.585,61",1755.842,2341,Non Subsidi
+15,Batu Bara,Ribu Ton,"403,13","511,55","663,50",496.52806300000003,559.968,-
+16,Biomasa,Ton,"131,00","1.444,03","1.985,07",5171.5434,167484.926,-
+17,Biogas,M3,"2.645,98","2.645,98","1.322,99",,,-

@@ -1,0 +1,53 @@
+"Neraca Energi untuk Wilayah ""RUED NTT 2027-2038 Agustus 2026""",,,,,,,,,,,No,Dari,Ke,Nilai (ribu BOE)
+"Skenario: Baseline, Tahun: 2025, Satuan: Ribu Barel Setara Minyak (ribu BOE)",,,,,,,,,,,1,Impor Batubara,Pembangkit Listrik Ongrid,2027.970428123206
+Aliran Energi,"Energi Terbarukan (Surya, Hidro, Geotermal)",Biomassa,Listrik,BBM,Batubara,*Kayu Bakar (estimasi),Biofuel (FAME),Total,,,2,Impor Batubara,Batubara,54.78556999626494
+Produksi,1564.376148926455,1.806364096526556,0,0,0,4168.570346050956,0,5734.7528590739375,,,3,Produksi Energi Terbarukan,Pembangkit Listrik Ongrid,1447.656500442754
+Impor,0,0,0,6975.128164647455,2082.755998119471,0,1317.051295565637,10374.935458332564,,,4,Produksi Energi Terbarukan,Pembangkit Listrik Offgrid,47.82103729671881
+Ekspor,0,0,0,0,0,0,0,0,,,5,Produksi Energi Terbarukan,Produksi Pelet Biomassa,68.89397251655038
+Total Suplai Primer,1564.376148926455,1.806364096526556,0,6975.128164647455,2082.755998119471,4168.570346050956,1317.051295565637,16109.6883174065,,,6,Produksi Energi Terbarukan,Energi Terbarukan,0.00463867043198718
+Produksi Biogas,0,0,0,0,0,0,0,0,,,7,Produksi Biomassa,Pembangkit Listrik Ongrid,0.06197251655039121
+Pencampuran Bioetanol,0,0,0,0,0,0,0,0,,,8,Produksi Biomassa,Pembangkit Listrik Offgrid,0
+Pencampuran Biodiesel,0,0,0,1317.051295565637,0,0,-1317.051295565637,0,,,9,Produksi Biomassa,Biomassa,1.7443915799761647
+Produksi Pelet Biomassa,-68.89397251655038,68.89397251655038,0,0,0,0,0,0,,,10,Kayu Bakar (Biomassa Tradisional),Kayu Bakar,4168.570346050956
+Pembangkit Listrik Ongrid,-1447.656500442754,-0.06197251655039121,1535.291077559977,-1799.772989148193,-2027.970428123206,0,0,-3740.1708126707263,,,11,Impor Biofuel,Pencampuran Biodiesel,1317.051295565637
+Pembangkit Listrik Offgrid,-47.82103729671881,0,25.15756805979391,-36.76975836813749,0,0,0,-59.43322760506239,,,12,Impor BBM,Pembangkit Listrik Ongrid,1799.772989148193
+Transmisi dan Distribusi,0,0,-84.92392910397226,0,0,0,0,-84.92392910397226,,,13,Impor BBM,Pembangkit Listrik Offgrid,36.76975836813749
+Total Transformasi,-1564.371510256023,68.83199999999998,1475.5247165157987,-519.4914519506933,-2027.970428123206,0,-1317.051295565637,-3884.5279693797606,,,14,Impor BBM,BBM,5138.585417131125
+Rumah Tangga,0.004638670431606371,1.806364096526556,474.059876387597,782.3519694923224,0,4168.570346050956,0,5426.793194697833,,,15,Pembangkit Listrik Ongrid,Listrik,1535.291077559977
+Transportasi,0,0,1.159105406151386,3356.251200825923,0,0,0,3357.4103062320746,,,16,Pembangkit Listrik Ongrid,Rugi-rugi,3740.1708126707263
+Komersial,0,0,181.7298861666077,16.12271295853612,0,0,0,197.85259912514383,,,17,Pembangkit Listrik Offgrid,Listrik,25.15756805979391
+Industri,0,68.83199999999998,26.78943429593835,3.450803774591989,54.62666239999999,0,0,153.6989004705303,,,18,Pembangkit Listrik Offgrid,Rugi-rugi,59.43322760506239
+Lainnya,0,0,31.65093659357729,2297.46002564539,0.1589075962646396,0,0,2329.269869835232,,,19,Produksi Pelet Biomassa,Biomassa,68.89397251655038
+Total Energi Final,0.004638670431606371,70.63836409652653,715.3892388498717,6455.636712696763,54.78556999626463,4168.570346050956,0,11465.024870360814,,,20,Pencampuran Biodiesel,BBM,1317.051295565637
+Selisih Permintaan–Suplai,-4.802842151763187e-13,0,-760.1354776659269,0,-3.126388037344441e-13,0,0,-760.1354776659264,,,21,Listrik,Rugi-rugi,84.92392910397226
+,,,,,,,,,,,22,Listrik,Selisih Suplai Listrik,760.1354776659269
+"Keterangan: sel biru = data masukan (dari keluaran model/LEAP); sel hitam = rumus. Tempel data baru di sel biru, seluruh Sankey ikut berubah.",,,,,,,,,,,23,Listrik,Industri,26.78943429593835
+"Sumber: Book1.xlsx (lembar 'Energy Balance') yang diunggah pengguna; label diterjemahkan ke bahasa Indonesia, nilai tidak diubah.",,,,,,,,,,,24,Listrik,Komersial,181.7298861666077
+,,,,,,,,,,,25,Listrik,Rumah Tangga,474.059876387597
+,,,,,,,,,,,26,Listrik,Transportasi,1.159105406151386
+,,,,,,,,,,,27,Listrik,Lainnya,31.65093659357729
+,,,,,,,,,,,28,Batubara,Industri,54.62666239999999
+,,,,,,,,,,,29,Batubara,Komersial,0
+,,,,,,,,,,,30,Batubara,Rumah Tangga,0
+,,,,,,,,,,,31,Batubara,Transportasi,0
+,,,,,,,,,,,32,Batubara,Lainnya,0.1589075962646396
+,,,,,,,,,,,33,Energi Terbarukan,Industri,0
+,,,,,,,,,,,34,Energi Terbarukan,Komersial,0
+,,,,,,,,,,,35,Energi Terbarukan,Rumah Tangga,0.004638670431606371
+,,,,,,,,,,,36,Energi Terbarukan,Transportasi,0
+,,,,,,,,,,,37,Energi Terbarukan,Lainnya,0
+,,,,,,,,,,,38,Biomassa,Industri,68.83199999999998
+,,,,,,,,,,,39,Biomassa,Komersial,0
+,,,,,,,,,,,40,Biomassa,Rumah Tangga,1.806364096526556
+,,,,,,,,,,,41,Biomassa,Transportasi,0
+,,,,,,,,,,,42,Biomassa,Lainnya,0
+,,,,,,,,,,,43,Kayu Bakar,Industri,0
+,,,,,,,,,,,44,Kayu Bakar,Komersial,0
+,,,,,,,,,,,45,Kayu Bakar,Rumah Tangga,4168.570346050956
+,,,,,,,,,,,46,Kayu Bakar,Transportasi,0
+,,,,,,,,,,,47,Kayu Bakar,Lainnya,0
+,,,,,,,,,,,48,BBM,Industri,3.450803774591989
+,,,,,,,,,,,49,BBM,Komersial,16.12271295853612
+,,,,,,,,,,,50,BBM,Rumah Tangga,782.3519694923224
+,,,,,,,,,,,51,BBM,Transportasi,3356.251200825923
+,,,,,,,,,,,52,BBM,Lainnya,2297.46002564539

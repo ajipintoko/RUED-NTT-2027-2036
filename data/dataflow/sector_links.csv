@@ -1,0 +1,86 @@
+scenario,from_tree,from_sector,to_tree,to_sector,n_links,n_reading_branches
+Baseline,Demand,Industri,Indicators,Perbandingan demand listrik,1,1
+Baseline,Demand,Komersial,Indicators,Indikator Lainnya,12,6
+Baseline,Demand,Komersial,Indicators,Perbandingan demand listrik,1,1
+Baseline,Demand,Lainnya,Indicators,Indikator Lainnya,1,1
+Baseline,Demand,Lainnya,Indicators,Perbandingan demand listrik,1,1
+Baseline,Demand,Rumah Tangga,Indicators,Konsumsi listrik per kapita,6,4
+Baseline,Demand,Rumah Tangga,Indicators,Perbandingan demand listrik,1,1
+Baseline,Demand,Rumah Tangga,Key Assumptions,Roadmap NZE,1,1
+Baseline,Demand,Rumah Tangga,Key Assumptions,Rumah Tangga,2,1
+Baseline,Demand,Transportasi,Indicators,Perbandingan demand listrik,1,1
+Baseline,Key Assumptions,Bangunan Komersial,Demand,Komersial,54,18
+Baseline,Key Assumptions,Bangunan Komersial,Key Assumptions,Bangunan Komersial,67,21
+Baseline,Key Assumptions,Demografi,Demand,Komersial,8,2
+Baseline,Key Assumptions,Demografi,Demand,Lainnya,1,1
+Baseline,Key Assumptions,Demografi,Demand,Rumah Tangga,1,1
+Baseline,Key Assumptions,Demografi,Key Assumptions,Bangunan Komersial,10,5
+Baseline,Key Assumptions,Demografi,Key Assumptions,Demografi,92,37
+Baseline,Key Assumptions,Makroekonomi,Demand,Industri,5,5
+Baseline,Key Assumptions,Makroekonomi,Indicators,Indikator Lainnya,1,1
+Baseline,Key Assumptions,Makroekonomi,Indicators,Intensitas energi primer,1,1
+Baseline,Key Assumptions,Makroekonomi,Key Assumptions,Makroekonomi,1,1
+Baseline,Key Assumptions,Populasi,Demand,Komersial,4,4
+Baseline,Key Assumptions,Populasi,Indicators,Emisi GRK per kapita,1,1
+Baseline,Key Assumptions,Populasi,Indicators,Energi final per kapita,1,1
+Baseline,Key Assumptions,Populasi,Indicators,Konsumsi listrik per kapita,4,4
+Baseline,Key Assumptions,Populasi,Key Assumptions,Bangunan Komersial,5,5
+Baseline,Key Assumptions,Populasi,Key Assumptions,Demografi,12,12
+Baseline,Key Assumptions,Populasi,Key Assumptions,Makroekonomi,1,1
+Baseline,Key Assumptions,Roadmap NZE,Demand,Industri,14,14
+Baseline,Key Assumptions,Roadmap NZE,Demand,Rumah Tangga,2,2
+Baseline,Key Assumptions,Roadmap NZE,Demand,Transportasi,8,8
+Baseline,Key Assumptions,Roadmap NZE,Key Assumptions,Makroekonomi,1,1
+Baseline,Key Assumptions,Roadmap NZE,Key Assumptions,Transportasi,3,3
+Baseline,Key Assumptions,Roadmap NZE,Transformation,Biodiesel Blending,1,1
+Baseline,Key Assumptions,Roadmap NZE,Transformation,Bioethanol Blending,1,1
+Baseline,Key Assumptions,Roadmap NZE,Transformation,Pembangkit Listrik Offgrid,5,5
+Baseline,Key Assumptions,Roadmap NZE,Transformation,Pembangkit Listrik Ongrid,5,5
+Baseline,Key Assumptions,Rumah Tangga,Demand,Rumah Tangga,30,9
+Baseline,Key Assumptions,Transportasi,Demand,Lainnya,1,1
+Baseline,Key Assumptions,Transportasi,Demand,Transportasi,21,12
+Baseline,Key Assumptions,Transportasi,Key Assumptions,Transportasi,3,3
+Baseline,Key Assumptions,Urbanisasi,Key Assumptions,Demografi,2,2
+Baseline,Resources,Secondary,Transformation,Pembangkit Listrik Ongrid,4,4
+Current Accounts,Demand,Industri,Indicators,Perbandingan demand listrik,1,1
+Current Accounts,Demand,Komersial,Indicators,Indikator Lainnya,12,6
+Current Accounts,Demand,Komersial,Indicators,Perbandingan demand listrik,1,1
+Current Accounts,Demand,Lainnya,Indicators,Indikator Lainnya,1,1
+Current Accounts,Demand,Lainnya,Indicators,Perbandingan demand listrik,1,1
+Current Accounts,Demand,Rumah Tangga,Indicators,Konsumsi listrik per kapita,6,4
+Current Accounts,Demand,Rumah Tangga,Indicators,Perbandingan demand listrik,1,1
+Current Accounts,Demand,Rumah Tangga,Key Assumptions,Roadmap NZE,1,1
+Current Accounts,Demand,Rumah Tangga,Key Assumptions,Rumah Tangga,2,1
+Current Accounts,Demand,Transportasi,Indicators,Perbandingan demand listrik,1,1
+Current Accounts,Key Assumptions,Bangunan Komersial,Demand,Komersial,72,20
+Current Accounts,Key Assumptions,Bangunan Komersial,Key Assumptions,Bangunan Komersial,67,21
+Current Accounts,Key Assumptions,Demografi,Demand,Komersial,8,2
+Current Accounts,Key Assumptions,Demografi,Demand,Lainnya,1,1
+Current Accounts,Key Assumptions,Demografi,Demand,Rumah Tangga,1,1
+Current Accounts,Key Assumptions,Demografi,Key Assumptions,Bangunan Komersial,10,5
+Current Accounts,Key Assumptions,Demografi,Key Assumptions,Demografi,72,27
+Current Accounts,Key Assumptions,Makroekonomi,Demand,Industri,6,6
+Current Accounts,Key Assumptions,Makroekonomi,Indicators,Indikator Lainnya,1,1
+Current Accounts,Key Assumptions,Makroekonomi,Indicators,Intensitas energi primer,1,1
+Current Accounts,Key Assumptions,Makroekonomi,Key Assumptions,Makroekonomi,1,1
+Current Accounts,Key Assumptions,Populasi,Demand,Komersial,4,4
+Current Accounts,Key Assumptions,Populasi,Indicators,Emisi GRK per kapita,1,1
+Current Accounts,Key Assumptions,Populasi,Indicators,Energi final per kapita,1,1
+Current Accounts,Key Assumptions,Populasi,Indicators,Konsumsi listrik per kapita,4,4
+Current Accounts,Key Assumptions,Populasi,Key Assumptions,Bangunan Komersial,5,5
+Current Accounts,Key Assumptions,Populasi,Key Assumptions,Demografi,2,2
+Current Accounts,Key Assumptions,Populasi,Key Assumptions,Makroekonomi,1,1
+Current Accounts,Key Assumptions,Roadmap NZE,Demand,Industri,14,14
+Current Accounts,Key Assumptions,Roadmap NZE,Demand,Rumah Tangga,2,2
+Current Accounts,Key Assumptions,Roadmap NZE,Demand,Transportasi,8,8
+Current Accounts,Key Assumptions,Roadmap NZE,Key Assumptions,Transportasi,3,3
+Current Accounts,Key Assumptions,Roadmap NZE,Transformation,Biodiesel Blending,1,1
+Current Accounts,Key Assumptions,Roadmap NZE,Transformation,Bioethanol Blending,1,1
+Current Accounts,Key Assumptions,Roadmap NZE,Transformation,Pembangkit Listrik Offgrid,5,5
+Current Accounts,Key Assumptions,Roadmap NZE,Transformation,Pembangkit Listrik Ongrid,5,5
+Current Accounts,Key Assumptions,Rumah Tangga,Demand,Rumah Tangga,30,9
+Current Accounts,Key Assumptions,Transportasi,Demand,Lainnya,1,1
+Current Accounts,Key Assumptions,Transportasi,Demand,Transportasi,21,12
+Current Accounts,Key Assumptions,Transportasi,Key Assumptions,Transportasi,3,3
+Current Accounts,Key Assumptions,Urbanisasi,Key Assumptions,Demografi,2,2
+Current Accounts,Resources,Secondary,Transformation,Pembangkit Listrik Ongrid,4,4

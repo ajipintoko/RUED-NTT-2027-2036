@@ -1,0 +1,74 @@
+Checklist Data Proyeksi / Target
+
+No.,Jenis,Nama Sheet,Rentang Tahun Proyeksi/Target,Isi / Keterangan,Sudah Diupdate?
+1,Tabel,Tabel 2.2. Indikator,2024-2025,"PDRB, Populasi, PDRB per Kapita, growth (%), Jumlah Kendaraan Bermotor, Gender (Laki/Perempuan), Keluarga (Kota/Desa), Urbanisasi, Tenaga Kerja — sudah diisi dari Export/olahan. Kemiskinan & TPT masih kosong — tidak ada sumber jelas di Export (data Pengangguran/Bekerja per umur tidak konsisten sbg rate, perlu klarifikasi definisi).",Belum
+2,Tabel,Tabel 2.4 Rasio Elektrifikasi,2024-2025,Rumah berlistrik PLN/non-PLN — sudah diisi dari Export; Rasio Elektrifikasi (RE) & Rasio Desa Berlistrik masih kosong,Belum
+3,Tabel,Tabel 2.5 Elastisitas Energi,2024-2025,"Pertumbuhan PDRB, Pertumbuhan Kebutuhan Energi, Elastisitas Energi — kosong semua, tidak ada match langsung di Export",Sudah
+4,Tabel,Tabel 2.6 Intensitas Energi ,2024-2025,"PDRB, Konsumsi Energi, Intensitas Energi, Pertumbuhan Intensitas — kosong, baris PDRB mismatch dgn Export di 2023",Sudah
+5,Tabel,Tabel 2.7 Kebutuhan Bahan Bakar,2024-2025,"14 jenis bahan bakar (BBM, Solar, LPG, Batu Bara, dst) — kosong, model output, tidak ada di Export",Sudah
+6,Tabel,Tabel 2.8 Transportasi Darat,2024-2025,"Mobil, Bus, Truk, Sepeda Motor — SUDAH diisi dari Export; Total Kendaraan & Konsumsi Bahan Bakar masih kosong",Sudah
+7,Tabel,Tabel 2.9 Transportasi Laut,2024-2025,Penumpang — SUDAH diisi dari Export; Kunjungan & Konsumsi Bahan Bakar masih kosong,Belum
+8,Tabel,Tabel 2.10 Transportasi Udara,2024-2025,Penumpang — SUDAH diisi dari Export; Kedatangan & Konsumsi Bahan Bakar masih kosong,Belum
+9,Tabel,Tabel 2.11 Perikanan,2024-2025,"Perahu (unit), Konsumsi Bahan Bakar — kosong; data historisnya terindikasi anomali (identik dgn Tabel 2.10)",Belum
+10,Tabel,Tabel 2.12 Konsumsi Energi per ,2024-2025,"Konsumsi energi per sektor (Rumah Tangga, Transportasi, Komersial, Industri, Lainnya) + Total NTT & Nasional — kosong, model output",Sudah
+11,Tabel,Tabel 2.13 Konsumsi Listrik,2024-2025,"Konsumsi listrik per sektor + Total — kosong, model output",Sudah
+12,Tabel,Tabel 2.14 Konsumsi Listrik per,2024-2025,"Konsumsi listrik per kapita per sektor — kosong, model output",Sudah
+13,Tabel,Tabel 2.15 Pertumbuhan Usaha In,2024-2025,"Pertumbuhan 8 subsektor industri (%) — kosong, turunan/growth rate, tidak match langsung ke Export",Sudah
+14,Tabel,Tabel 2.16 Asumsi Dasar Jumlah,2019-2025 (blok 1) & 2026-2038 (blok 2),"Populasi — 2024/2025 SUDAH diisi dari Export (x1000); Urbanisasi masih kosong. Blok 2026-2038 (Populasi & Urbanisasi) semua kosong, untuk proyeksi jangka panjang",Sudah
+15,Tabel,Tabel 2.17 Target KEN,2030 & 2035,"Target intensitas energi per sektor (Industri, Transportasi, Rumah Tangga, Komersial) — sudah terisi (bukan proyeksi baru, ini target kebijakan tetap)",Sudah
+16,Tabel,Tabel 2.18 Target KEN Final,2030 & 2035,"Target bauran energi final per sumber (Surya, Biomassa, BBM, Batubara, Listrik, dst) — sudah terisi (target kebijakan tetap)",Sudah
+17,Tabel,Tabel 2.19 Ringkasan Proyeksi,2030 & 2035,"Ringkasan proyeksi energi final per sektor, skenario BAU — SEMUA NILAI KOSONG (dummy), perlu diisi",Sudah
+18,Tabel,Tabel 2.22 Moderat Ringkasan,2030 & 2035,"Ringkasan proyeksi energi final per sektor, skenario Moderat — SEMUA NILAI KOSONG (dummy), perlu diisi",Sudah
+19,Tabel,Tabel 2.25 Optimis Ringkasan,2030 & 2035,"Ringkasan proyeksi energi final per sektor, skenario Optimis — SEMUA NILAI KOSONG (dummy), perlu diisi",Sudah
+20,Gambar,Gambar 2.1 Konsumsi Energi Fina,2019-2023,"Chart stacked area: BBM, Listrik, EBT, Batu Bara, Biomass, Gas — DATA DUMMY, perlu diganti angka riil",Sudah
+21,Gambar,Gambar 2.2 Proporsi Konsumsi En,1 titik (proporsi terkini),Chart pie: proporsi konsumsi energi final per sektor — DATA DUMMY,Sudah
+22,Gambar,Gambar 2.3 Emisi GRK,2019-2023,"Chart stacked area: Pembangkit Listrik, Transportasi, Rumah Tangga — DATA DUMMY",Sudah
+23,Gambar,Gambar 2.4 Emisi GRK per Kapita,2019-2023,"Chart stacked area: Pembangkit Listrik, Transportasi, Industri, Rumah Tangga — DATA DUMMY",Sudah
+24,Gambar,Gambar 2.7 Pemanfaatan Energi,2026-2038,"Chart stacked bar: 7 jenis bahan bakar (BBM, Kayu bakar, Listrik PLN/Offgrid/Captive, EBT, Batubara) — DATA DUMMY",Sudah
+25,Gambar,Gambar 2.8 Pemanfaatan Sektoral,2026-2038,"Chart stacked bar: energi final per sektor (RT, Transportasi, Komersial, Industri, Lainnya) — DATA DUMMY",Sudah
+26,Gambar,Gambar 2.9 Kebutuhan Final RT,2026-2038,Chart stacked bar: jenis kompor & peralatan listrik RT — DATA DUMMY,Sudah
+27,Gambar,Gambar 2.10 Final Transportasi,2026-2038,"Chart stacked bar: 11 moda transportasi (motor, mobil, bus, truk, kapal, pesawat) — DATA DUMMY",Sudah
+28,Gambar,Gambar 2.11 Kebutuhan Komersial,2026-2038,"Chart stacked bar: Kantor, Hotel, Sekolah, Retail, Faskes — DATA DUMMY",Sudah
+29,Gambar,Gambar 2.12 Final Industri,2026-2038,"Chart stacked bar: 7 subsektor industri (Galian, UMKM, Makanan, Minuman, Furnitur, Tekstil, Karet & Plastik) — DATA DUMMY",Sudah
+30,Gambar,Gambar 2.13 Industri Final Fuel,2026-2038,"Chart stacked bar: 13 jenis bahan bakar industri (Biomass, Coal, Listrik, Diesel, Biodiesel, Gas, dst) — DATA DUMMY",Sudah
+31,Gambar,Gambar 2.18 Emisi GRK BAU,2026-2038,"Chart stacked area: Emisi GRK skenario BAU per sektor (Pembangkit Listrik, Transportasi, RT, Industri) — DATA DUMMY",Sudah
+32,Gambar,Gambar 2.19 Moderat Final,2026-2038,Chart stacked bar: Kebutuhan Energi Final skenario Moderat per sektor — DATA DUMMY,Sudah
+33,Gambar,Gambar 2.20 Moderat Final Fuel,2026-2038,Chart stacked bar: 7 jenis bahan bakar skenario Moderat — DATA DUMMY,Sudah
+34,Gambar,Gambar 2.21 Moderat RT,2026-2038,Chart stacked bar: jenis kompor RT skenario Moderat — DATA DUMMY,Sudah
+35,Gambar,Gambar 2.22 Moderat Transport,2026-2038,Chart stacked bar: 10 moda transportasi skenario Moderat + marker Baseline — DATA DUMMY,Sudah
+36,Gambar,Gambar 2.27 Moderat Emisi GRK,2026-2038,Chart stacked area + garis Mitigasi: Emisi GRK skenario Moderat per sektor — DATA DUMMY,Sudah
+37,Gambar,Gambar 2.28 Optimis Final,2026-2038,Chart stacked bar: Kebutuhan Energi Final skenario Optimis per sektor — DATA DUMMY,Sudah
+38,Gambar,Gambar 2.29 Optimis Fuel,2026-2038,Chart stacked bar: 7 jenis bahan bakar skenario Optimis — DATA DUMMY,Sudah
+39,Gambar,Gambar 2.30 Optimis RT,2026-2038,Chart stacked bar: jenis kompor RT skenario Optimis — DATA DUMMY,Sudah
+40,Gambar,Gambar 2.31 Optimis Transport,2026-2038,Chart stacked bar: 11 moda transportasi skenario Optimis + marker Baseline — DATA DUMMY,Sudah
+41,Gambar,Gambar 2.32 Optimis Industri,2026-2038,Chart stacked bar: 7 subsektor industri skenario Optimis — DATA DUMMY,Sudah
+42,Gambar,Gambar 2.37 Optimis Emisi GRK,2026-2038,Chart stacked area + garis Mitigasi: Emisi GRK skenario Optimis per sektor — DATA DUMMY,Sudah
+43,Gambar,Gambar 2.38 Konservasi Energi,"2023, 2030 & 2035 (BaU/Opt)","Chart stacked bar kategorikal: energi final per sektor, perbandingan skenario — DATA DUMMY",Sudah
+44,Gambar,Gambar 2.39 Konservasi Konsumsi,"2023, 2030 & 2035 (BaU/Opt/Mod)","Chart stacked bar kategorikal: konsumsi bahan bakar, perbandingan skenario — DATA DUMMY",Sudah
+45,Gambar,Gambar 2.40 Proyeksi Konservasi,2026-2038,Chart line: proyeksi energi final BaU vs Moderat vs Optimis — DATA DUMMY,Sudah
+46,Gambar,Gambar 2.41 Elastisitas Energi,2027-2036,Chart line dgn marker: elastisitas energi Baseline/Moderat/Optimis — DATA DUMMY,Sudah
+47,Gambar,Gambar 2.46 Emisi GRK Skenario,2026-2038,Chart line: proyeksi emisi GRK BaU vs Moderat vs Optimis — DATA DUMMY,Sudah
+48,Gambar,Gambar 2.47 Emisi GRK Mitigasi,"2023, 2030 & 2035 (BaU/Opt/Mod)","Chart stacked bar kategorikal + marker Mitigasi: emisi GRK per sektor, perbandingan skenario — DATA DUMMY",Sudah
+49,Gambar,Gambar 2.14 BAU Suplai EP,2026-2038 (chart 2026-2036),"Chart stacked column: penyediaan energi primer per jenis (Batu Bara, Minyak Bumi, Gas Bumi, EBT, Biofuel, Biomassa) skenario BAU - data baru LEAP",Sudah
+50,Gambar,Gambar 2.15 BAU Bauran EP,2026-2038 (chart 2026-2036),Chart stacked column: bauran energi primer (%) skenario BAU - data baru LEAP,Sudah
+51,Tabel,Tabel 2.20 BAU Ringkasan EP,"2025, 2030 & 2035",Ringkasan penyediaan energi primer (Ribu BOE & %) skenario BAU,Sudah
+52,Gambar,Gambar 2.16 BAU Kapasitas,2026-2038 (chart 2026-2036),"Chart stacked column: kapasitas pembangkit listrik (MW) per teknologi, ongrid + offgrid, skenario BAU",Sudah
+53,Gambar,Gambar 2.17 BAU Bauran EL,2026-2038 (chart 2026-2036),Chart stacked column: bauran ketenagalistrikan (% GWh) per teknologi skenario BAU,Sudah
+54,Tabel,Tabel 2.21 BAU Ringkasan EL,"2025, 2030 & 2035","Ringkasan penyediaan energi listrik (kapasitas MW & %, pembangkitan GWh & %) skenario BAU",Sudah
+55,Gambar,Gambar 2.23 Moderat Suplai EP,2026-2038 (chart 2026-2036),"Chart stacked column: penyediaan energi primer per jenis (Batu Bara, Minyak Bumi, Gas Bumi, EBT, Biofuel, Biomassa) skenario Moderat - data baru LEAP",Sudah
+56,Gambar,Gambar 2.24 Moderat Bauran EP,2026-2038 (chart 2026-2036),Chart stacked column: bauran energi primer (%) skenario Moderat - data baru LEAP,Sudah
+57,Tabel,Tabel 2.23 Moderat Ringkasan EP,"2025, 2030 & 2035",Ringkasan penyediaan energi primer (Ribu BOE & %) skenario Moderat,Sudah
+58,Gambar,Gambar 2.25 Moderat Kapasitas,2026-2038 (chart 2026-2036),"Chart stacked column: kapasitas pembangkit listrik (MW) per teknologi, ongrid + offgrid, skenario Moderat",Sudah
+59,Gambar,Gambar 2.26 Moderat Bauran EL,2026-2038 (chart 2026-2036),Chart stacked column: bauran ketenagalistrikan (% GWh) per teknologi skenario Moderat,Sudah
+60,Tabel,Tabel 2.24 Moderat Ringkasan EL,"2025, 2030 & 2035","Ringkasan penyediaan energi listrik (kapasitas MW & %, pembangkitan GWh & %) skenario Moderat",Sudah
+61,Gambar,Gambar 2.33 Optimis Suplai EP,2026-2038 (chart 2026-2036),"Chart stacked column: penyediaan energi primer per jenis (Batu Bara, Minyak Bumi, Gas Bumi, EBT, Biofuel, Biomassa) skenario Optimis - data baru LEAP",Sudah
+62,Gambar,Gambar 2.34 Optimis Bauran EP,2026-2038 (chart 2026-2036),Chart stacked column: bauran energi primer (%) skenario Optimis - data baru LEAP,Sudah
+63,Tabel,Tabel 2.26 Optimis Ringkasan EP,"2025, 2030 & 2035",Ringkasan penyediaan energi primer (Ribu BOE & %) skenario Optimis,Sudah
+64,Gambar,Gambar 2.35 Optimis Kapasitas,2026-2038 (chart 2026-2036),"Chart stacked column: kapasitas pembangkit listrik (MW) per teknologi, ongrid + offgrid, skenario Optimis",Sudah
+65,Gambar,Gambar 2.36 Optimis Bauran EL,2026-2038 (chart 2026-2036),Chart stacked column: bauran ketenagalistrikan (% GWh) per teknologi skenario Optimis,Sudah
+66,Tabel,Tabel 2.27 Optimis Ringkasan EL,"2025, 2030 & 2035","Ringkasan penyediaan energi listrik (kapasitas MW & %, pembangkitan GWh & %) skenario Optimis",Sudah
+67,Gambar,Gambar 2.42 Bauran EBT Skenario,"2025 (BaU), 2030 & 2035 (3 skenario)","Chart stacked column share: bauran energi primer (Batu Bara, Minyak Bumi, Gas Bumi, EBT) ketiga skenario; EBT = Renewables + Biomass + Biofuel",Sudah
+68,Gambar,Gambar 2.43 Int Primer Skenario,2026-2038 (chart 2026-2036),Chart line: intensitas energi primer (SBM per Miliar Rupiah) ketiga skenario,Sudah
+69,Gambar,Gambar 2.44 Final per Kapita,2026-2038 (chart 2026-2036),Chart line: energi final per kapita (TOE per kapita) ketiga skenario,Sudah
+70,Gambar,Gambar 2.45 Listrik per Kapita,2026-2038 (chart 2026-2036),Chart line: konsumsi listrik per kapita (kWh) ketiga skenario,Sudah
+71,Gambar,Gambar 2.48 Intensitas Emisi EP,2026-2038 (chart 2026-2036),Chart line: intensitas emisi GRK per energi primer (ton CO2eq per BOE) ketiga skenario,Sudah

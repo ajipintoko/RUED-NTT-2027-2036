@@ -1,0 +1,11 @@
+Pengguna,Tahun
+,2019,2020,2021,2022,2023,2024*,2025*
+Rumah Tangga,"137,56","136,76","135,84","143,29","144,19",133.3,133.34
+Transportasi,-,-,"0,12","0,21","0,27",0.28,0.33
+Komersial,"42,83","42,21","42,90","43,94","45,75",48.91,51.11
+Industri,"8,80","8,67","7,65","5,10","7,65",7.65,7.53
+Lainnya,"4,27",439,"5,85","8,63","8,56",8.89,8.9
+Total NTT,"193,45","192,03","192,35","201,17","206,42",199.04,201.22
+Nasional,1084,1089,1123,1173,1337,1411,1584
+
+"* Baris Rumah Tangga-Total NTT: estimasi pendekatan model (LEAP), bukan data realisasi historis. Baris Nasional (B9:H9) = realisasi konsumsi listrik per kapita nasional Indonesia, Source: Kementerian ESDM RI (siaran pers tahunan capaian kinerja sektor ESDM 2019-2025), esdm.go.id."

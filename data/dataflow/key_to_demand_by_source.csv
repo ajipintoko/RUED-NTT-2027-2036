@@ -1,0 +1,66 @@
+from_sector,source_group,to_sector,n_links,n_reading_branches,example_reader,example_variable
+Makroekonomi,Key\Makroekonomi\Kontribusi PDB per sektor\PDB subsektor industri,Industri,5,5,Demand\Industri\Minuman,Activity Level
+Roadmap NZE,Key\Roadmap NZE\Target penggunaan biomassa dan campuran biodiesel\Persentase biodiesel pada solar,Industri,12,12,Demand\Industri\Makanan\Biodiesel\Carbon Dioxide Biogenic,Avg Environmental Loading
+Roadmap NZE,Key\Roadmap NZE\Target penggunaan biomassa dan campuran biodiesel\Target persentase biomass pada industri semen,Industri,2,2,Demand\Industri\Barang Galian Bukan Logam\Coal,Total Energy
+Bangunan Komersial,Key\Bangunan Komersial\Akomodasi dan Hotel\Bed per Annual Tourist Ratio,Komersial,4,4,Demand\Komersial\Hotel\Bintang 5,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Akomodasi dan Hotel\Bed per Kamar,Komersial,4,4,Demand\Komersial\Hotel\Bintang 5,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Akomodasi dan Hotel\Jumlah Wisatawan,Komersial,4,4,Demand\Komersial\Hotel\Bintang 5,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Akomodasi dan Hotel\Share_Bintang Hotel,Komersial,4,4,Demand\Komersial\Hotel\Bintang 5,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Akomodasi dan Hotel\Ukuran Kamar,Komersial,4,4,Demand\Komersial\Hotel\Bintang 5,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Fasilitas Kesehatan\Bed per Kamar,Komersial,4,4,Demand\Komersial\Faskes\RS B,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Fasilitas Kesehatan\Luasan Kamar,Komersial,4,4,Demand\Komersial\Faskes\RS B,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Fasilitas Kesehatan\Luasan Unit,Komersial,1,1,Demand\Komersial\Faskes\Puskesmas Non Ranap,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Fasilitas Kesehatan\Tempat Tidur per Penduduk,Komersial,4,4,Demand\Komersial\Faskes\RS B,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Fasilitas Kesehatan\Unit Rumah Sakit,Komersial,1,1,Demand\Komersial\Faskes\Puskesmas Non Ranap,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Retail\EUI,Komersial,2,2,Demand\Komersial\Retail\Pasar Tradisional,Final Energy Intensity
+Bangunan Komersial,Key\Bangunan Komersial\Retail\Jumlah Unit,Komersial,4,4,Demand\Komersial\Retail\Pasar Tradisional,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Retail\Ukuran Unit,Komersial,4,4,Demand\Komersial\Retail\Pasar Tradisional,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Sekolah\Kebutuhan Kelas,Komersial,5,5,Demand\Komersial\Sekolah\TK,Activity Level
+Bangunan Komersial,Key\Bangunan Komersial\Sekolah\Luasan Per kelas,Komersial,5,5,Demand\Komersial\Sekolah\TK,Activity Level
+Demografi,Key\Demografi\Ketenagakerjaan\Angkatan Kerja,Komersial,2,2,Demand\Komersial\Kantor\Kantor NonPemerintah,Activity Level
+Demografi,Key\Demografi\Ketenagakerjaan\Persentase Sektor,Komersial,6,2,Demand\Komersial\Kantor\Kantor NonPemerintah,Activity Level
+Populasi,Key\Populasi,Komersial,4,4,Demand\Komersial\Faskes\RS B,Activity Level
+Demografi,Key\Demografi\Sosioekomi\Jumlah bangunan_total,Lainnya,1,1,Demand\Lainnya\Perikanan\Perahu Nelayan,Activity Level
+Transportasi,Key\Transportasi\Laut\Rasio kepemilikan perahu motor nelayan,Lainnya,1,1,Demand\Lainnya\Perikanan\Perahu Nelayan,Activity Level
+Demografi,Key\Demografi\Sosioekomi\Jumlah bangunan_total,Rumah Tangga,1,1,Demand\Rumah Tangga,Activity Level
+Roadmap NZE,Key\Roadmap NZE\Target penggunaan peralatan memasak rendah karbon\Target pengguna biogas rumah tangga,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Memasak\Biogas,Activity Level
+Roadmap NZE,Key\Roadmap NZE\Target penggunaan peralatan memasak rendah karbon\Target pengguna kompor listrik,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Memasak\Kompor Listrik,Activity Level
+Rumah Tangga,Key\Rumah Tangga\Daya rata rata\AC,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\AC,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Daya rata rata\Kipas Angin,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Kipas Angin,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Daya rata rata\Kulkas,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Kulkas,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Daya rata rata\Lampu,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Lampu,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Daya rata rata\Rice Cooker,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Rice Cooker,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Daya rata rata\TV Datar,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\TV datar,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Daya rata rata\Water Heater,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Water Heater,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Jumlah kepemilikan\AC,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\AC,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Jumlah kepemilikan\Kipas Angin,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Kipas Angin,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Jumlah kepemilikan\Kulkas,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Kulkas,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Jumlah kepemilikan\Lampu,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Lampu,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Jumlah kepemilikan\Rice Cooker,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Rice Cooker,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Jumlah kepemilikan\TV datar,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\TV datar,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Jumlah kepemilikan\Water Heater,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Water Heater,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Load Factor\AC,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\AC,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Load Factor\Kipas Angin,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Kipas Angin,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Load Factor\Kulkas,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Kulkas,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Load Factor\Lampu,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Lampu,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Load Factor\Rice Cooker,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Rice Cooker,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Load Factor\TV Datar,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\TV datar,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Load Factor\Water Heater,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Water Heater,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Penggunaan harian\AC,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\AC,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Penggunaan harian\Kipas Angin,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Kipas Angin,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Penggunaan harian\Kulkas,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Kulkas,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Penggunaan harian\Lampu,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Lampu,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Penggunaan harian\Rice Coker,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Rice Cooker,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Penggunaan harian\TV datar,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\TV datar,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Penggunaan harian\Water Heater,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN\Water Heater,Final Energy Intensity
+Rumah Tangga,Key\Rumah Tangga\Rumah berlistrik PLN,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik PLN,Activity Level
+Rumah Tangga,Key\Rumah Tangga\Rumah berlistrik non PLN,Rumah Tangga,1,1,Demand\Rumah Tangga\Aktivitas Lainnya\Rumah berlistrik nonPLN,Activity Level
+Roadmap NZE,Key\Roadmap NZE\Target penggunaan biomassa dan campuran biodiesel\Persentase biodiesel pada solar,Transportasi,2,2,Demand\Transportasi\Darat\Bus\Bus Diesel\Biodiesel\Carbon Dioxide Biogenic,New Device Environmental Loading
+Roadmap NZE,Key\Roadmap NZE\Target penggunaan biomassa dan campuran biodiesel\Target persentase bioethanol pada green pertamax,Transportasi,6,6,Demand\Transportasi\Darat\Mobil\Mobil Bensin\Green Pertamax\Carbon Dioxide Biogenic,New Device Environmental Loading
+Transportasi,Key\Transportasi\Darat\Penjualan,Transportasi,15,8,Demand\Transportasi\Darat\Mobil\Mobil Bensin,Sales
+Transportasi,Key\Transportasi\Laut\Konsumsi bahan bakar per trip,Transportasi,1,1,Demand\Transportasi\Laut\MFO,Final Energy Intensity
+Transportasi,Key\Transportasi\Laut\Penumpang,Transportasi,1,1,Demand\Transportasi\Laut,Activity Level
+Transportasi,Key\Transportasi\Laut\Penumpang per trip,Transportasi,1,1,Demand\Transportasi\Laut,Activity Level
+Transportasi,Key\Transportasi\Udara\Konsumsi bahan bakar per trip,Transportasi,1,1,Demand\Transportasi\Udara\Jet Kerosene,Final Energy Intensity
+Transportasi,Key\Transportasi\Udara\Penumpang,Transportasi,1,1,Demand\Transportasi\Udara,Activity Level
+Transportasi,Key\Transportasi\Udara\Penumpang per trip,Transportasi,1,1,Demand\Transportasi\Udara,Activity Level

@@ -1,0 +1,62 @@
+RUPTL Name,Incl PLEXOS,Note,Region,Location,Node/Substation,Node ID,Regency,Coordinate,PLEXOS Name,Nett Capacity (MW),Type,Technology,Fuel,Connection Type,Ownership,COD,Initial BC (USD/kW),PPA Length (Years),Remaining PPA (Years),Base Year BC,Efficiency,Heat Rate,End Year,Min Stable %,Start Time,Ramp up %,Run Up/Down (MW/min),Max Run Up/Down (MW/min)
+PLTMG Rangko,YES,MPP Labuan Bajo,Flores,EXACT,Labuanbajo,1,Manggarai Barat,"-8.461074218884125, 119.94399025689358",01_PLTMG Rangko,20,Gas,Machine Gas,LNG,Grid-connected,PLN,2018,910,25,17,546,,,2043-01-01 00:00:00,,,0.25,5,5
+PLTP Ulumbu 1-4,YES,4 units,Flores,EXACT,Ruteng,2,Manggarai Barat,"-8.726349830487363, 120.43479482595623",02_PLTP Ulumbu 1-4,10,Geothermal,-,-,Grid-connected,PLN,2011,5500,25,10,1375,,,2036-01-01 00:00:00,,,0.01,0.1
+PLTU Ropa,YES,1 unit,Flores,EXACT,Ropa,6,Ende,"-8.50918362325322, 121.70117856717849",06_PLTU Ropa,14,Coal,Subcritical Coal,Subcritical Coal,Grid-connected,PLN,2014,1880,25,13,752,0.34,10.59,2039-01-01 00:00:00,0.6,8,0.035,0.02,0.49
+PLTMG Maumere,YES,,Flores,EXACT,Maumere,8,Sikka,"-8.620099388477868, 122.33921850198355",08_PLTMG Maumere,40,Gas,Machine Gas,LNG,Grid-connected,PLN,2019,910,25,18,592,,,2044-01-01 00:00:00,,,0.25,10,10
+PLTD Golobilas,YES,"Based on PLTD PLN Flores of 22 units (10.15 MW nett capacity), scattered, most likely for system backup",Flores,EXACT,Labuanbajo,1,Manggarai Barat,"-8.540097326310667, 119.88650302616595",01_PLTD Golobilas,3.4,Diesel,-,Diesel,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,0.85,0.85
+PLTD Faobata,YES,"Based on PLTD PLN Flores of 22 units (10.15 MW nett capacity), scattered, most likely for system backup",Flores,EXACT,Bajawa,4,Ngada,"-8.784658007959921, 120.9860352960176",04_PLTD Faobata,2.2,Diesel,,Diesel,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,0.55,0.55
+PLTD Mautapaga,YES,"Based on PLTD PLN Flores of 22 units (10.15 MW nett capacity), scattered, most likely for system backup",Flores,EXACT,Ende,7,Ende,"-8.845031663845619, 121.67212726533637",07_PLTD Mautapaga,3,Diesel,,Diesel,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,0.75,0.75
+PLTD Wolomarang,YES,"Based on PLTD PLN Flores of 22 units (10.15 MW nett capacity), scattered, most likely for system backup",Flores,EXACT,Maumere,8,Sikka,"-8.596157550503642, 122.19066579786173",08_PLTD Wolomarang,3,Diesel,,Diesel,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,0.75,0.75
+PLTD PLN Isolated Flores,NO,"32 isolated units, scattered, most likely",Flores,NO,,,,,,5.52,Diesel,-,Diesel,Isolated,PLN
+PLTM Ndungga,YES,"Based on PLTM PLN Flores, consisting 4 units",Flores,APPROX,Ende,7,Ende,"-8.774859213735466, 121.66901584417633",07_PLTM Ndungga,2.12,Hydro,Minihydro,-,Grid-connected,PLN,2014,2700,25,13,1080,,,2039-01-01 00:00:00,,,0.2,0.424,0.424
+PLTD PLN Larantuka,YES,4 units,Flores,APPROX,Larantuka,9,Flores Timur,"-8.340102053687419, 122.9855429329985",09_PLTD PLN Larantuka,2.69,Diesel,-,Diesel,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,0.6725,0.6725
+PLTD Sewa Larantuka,YES,"1 unit, most likely for system backup",Flores,APPROX,Larantuka,9,Flores Timur,"-8.340102053687419, 122.9855429329985",09_PLTD Sewa Larantuka,5,Diesel,,Diesel,Grid-connected,IPP,2011,0,25,10,0,,,2036-01-01 00:00:00,,,0.25,1.25,1.25
+PLTD PLN Adonara,YES,13 units,Flores,APPROX,Adonara,10,Flores Timur,"-8.382094645355101, 123.16242213438797",10_PLTD PLN Adonara,6.49,Diesel,-,Diesel,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,1.6225,1.6225
+PLTD Sewa Adonara,YES,"1 unit, most likely for system backup",Flores,APPROX,Adonara,10,Flores Timur,"-8.382094645355101, 123.16242213438797",10_PLTD Sewa Adonara,3.5,Diesel,,Diesel,Grid-connected,IPP,2011,0,25,10,0,,,2036-01-01 00:00:00,,,0.25,0.875,0.875
+PLTD PLN Isolated Lembata,NO,8 units,Flores,NO,,,,,,1.28,Diesel,-,Diesel,Isolated,PLN
+PLTD PLN Isolated Alor,NO,19 units,Flores,NO,,,,,,2.51,Diesel,-,Diesel,Isolated,PLN
+PLTD PLN Isolated Solor Timur,NO,11 units,Flores,NO,,,,,,2.4,Diesel,-,Diesel,Isolated,PLN
+PLTD PLN Isolated Pantar,NO,19 units,Flores,NO,,,,,,5.3,Diesel,-,Diesel,Isolated,PLN
+PLTP Sokoria,YES,2 units,Flores,YES,Ende,7,Ende,"-8.793685516983976, 121.7662135016703",07_PLTP Sokoria,8,Geothermal,-,-,Grid-connected,IPP,2023,5500,25,22,4675,,,2048-01-01 00:00:00,,,0.01,0.08
+PLMTH Wae Roa,YES,"Based on PLTMH IPP Flores, 1 unit",Flores,APPROX,Bajawa,4,Ngada,"-8.867922280564958, 120.99891064443078",04_PLMTH Wae Roa,0.3,Hydro,Microhydro,-,Grid-connected,IPP,2017,2700,25,16,1485,,,2042-01-01 00:00:00,,,0.2,0.06,0.06
+PLTM Sita,YES,"Based on PLTM IPP Flores, 2 units",Flores,APPROX,Borong,3,Borong,"-8.760113918905061, 120.57034235141055",03_PLTM Sita,1,Hydro,Minihydro,-,Grid-connected,IPP,2019,2700,25,18,1755,,,2044-01-01 00:00:00,,,0.2,0.2,0.2
+PLTS Tersebar Flores,NO,"19 units, most likely isolated",Flores,NO,,,,,,,,,,Isolated,PLN
+PLTS Tersebar Alor,NO,"9 units, most likely isolated",Flores,NO,,,,,,,,,,Isolated,PLN
+PLTS Lembata,NO,"1 unit, most likely isolated",Flores,NO,,,,,,,,,,Isolated,PLN
+PLTS Solor Barat,NO,"1 unit, most likely isolated",Flores,NO,,,,,,,,,,Isolated,PLN
+PLTS IPP Wewaria,YES,,Flores,EXACT,Ropa,6,Ende,"-8.530340335988123, 121.68233187733883",06_PLTS IPP Wewaria,1,Solar,,,Grid-connected,IPP,2019,960,25,18,624,,,2044-01-01 00:00:00
+PLTS IPP Waigete,YES,,Flores,EXACT,Maumere,8,Sikka,"-8.629534280882048, 122.32833673547799",08_PLTS IPP Waigete,1,Solar,,,Grid-connected,IPP,2019,960,25,18,624,,,2044-01-01 00:00:00
+PLTD PLN Lembata,YES,8 units,Flores,APPROX,Lembata,11,Flores Timur,"-8.358201534501832, 123.46771590815007",11_PLTD PLN Lembata,4.44,Diesel,-,Diesel,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,1.11,1.11
+PLTD Sewa Lembata,YES,"1 unit, most likely for system backup",Flores,APPROX,Lembata,11,Flores Timur,"-8.358201534501832, 123.46771590815007",11_PLTD Sewa Lembata,4,Diesel,,Diesel,Grid-connected,IPP,2011,0,25,10,0,,,2036-01-01 00:00:00,,,0.25,1,1
+PLTD PLN Kalabahi,YES,3 units,Flores,APPROX,Kalabahi,12,Alor,"-8.218701282442023, 124.53718088843883",12_PLTD PLN Kalabahi,3.1,Diesel,-,Diesel,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,0.775,0.775
+PLTD Sewa Solor Timur,NO,Most likely isolated,Flores,NO,,,,,,,,,,Isolated,IPP
+PLTD Sewa Omesuri,NO,Most likely isolated,Flores,NO,,,,,,,,,,Isolated,IPP
+PLTD Sewa Reo,NO,Most likely isolated,Flores,NO,,,,,,,,,,Isolated,IPP
+PLTD Sewa Kalabahi,YES,Most likely for system backup,Flores,APPROX,Kalabahi,12,Alor,"-8.218701282442023, 124.53718088843883",12_PLTD Sewa Kalabahi,8,Diesel,,Diesel,Grid-connected,IPP,2011,0,25,10,0,,,2036-01-01 00:00:00,,,0.25,2,2
+PLTD PLN Waikabubak,YES,,Sumba,APPROX,Waikabubak,13,Sumba Barat ,,13_PLTD PLN Waikabubak,7,Diesel,,Diesel,Grid-connected,PLN,2011,0,25,10,0,,,2036-01-01 00:00:00,,,0.25,1.75,1.75
+PLTD Sewa Waikabubak,YES,Sytem backup,Sumba,APPROX,Waikabubak,13,Sumba Barat,,13_PLTD Sewa Waikabubak,3,Diesel,,Diesel,Grid-connected,PLN,2011,0,25,10,0,,,2036-01-01 00:00:00,,,0.25,0.75,0.75
+PLTD PLN Tambolaka,YES,,Sumba,APPROX,Tambolaka,14,Sumba Barat Daya,,14_PLTD PLN Tambolaka,8,Diesel,,Diesel,Grid-connected,PLN,2011,0,25,10,0,,,2036-01-01 00:00:00,,,0.25,2,2
+PLTD Isolated Sumba,NO,,Sumba,,,,,,,2.45
+PLTM Lokomboro,YES,RUPTL: PLTM Sumba 2.5 MW,Sumba,EXACT,Waikabubak,13,Sumba Barat,"-9.599284617806303, 119.29205218103829",13_PLTM Lokomboro,2.5,Hydro,,Minihydro,Grid-connected,PLN,2014,2700,30,18,1080,,,2044-01-01 00:00:00,,,0.2,0.5,0.5
+PLTS Sumba Tersebar,NO,,Sumba,,,,,,,0.68
+PLTMH Umbuwango,YES,RUPTL: PLTMH Sumba 0.2 MW,Sumba,EXACT,Waikabubak,13,Sumba Barat,"-9.58835358301859, 119.1598168053596",13_PLTMH Umbuwango,0.02,Hydro,,Minihydro,Grid-connected,PLN,2014,2700,25,13,1080,,,2039-01-01 00:00:00,,,0.2,0.004,0.004
+PLTMH Wanokaka,YES,Operating based on publicly available https://www.instagram.com/p/DRwYncSD99_/,Sumba,APPROX,Waikabubak,13,Sumba Barat,,13_PLTMH Wanokaka,1.6,Hydro,,Minihydro,Grid-connected,PLN,2025,2700,25,24,2565,,,2050-01-01 00:00:00,,,0.2,0.32,0.32
+PLTD Sewa Tambolaka,YES,Sytem backup,Sumba,APPROX,Tambolaka,14,Sumba Barat Daya,,14_PLTD Sewa Tambolaka,5,Diesel,,Diesel,Grid-connected,PLN,2011,0,25,10,0,,,2036-01-01 00:00:00,,,0.25,1.25,1.25
+PLTD PLN Waingapu,YES,,Sumba,APPROX,Waingapu,15,Sumba Timur,,15_PLTD PLN Waingapu,15,Diesel,,Diesel,Grid-connected,PLN,2011,0,25,10,0,,,2036-01-01 00:00:00,,,0.25,3.75,3.75
+PLTD Sewa Waingapu,YES,Sytem backup,Sumba,APPROX,Waingapu,15,Sumba Timur,,15_PLTD Sewa Waingapu,8,Diesel,,Diesel,Grid-connected,PLN,2011,0,25,10,0,,,2036-01-01 00:00:00,,,0.25,2,2
+PLTS Bilacenge,YES,,Sumba,EXACT,Tambolaka,14,Sumba Barat Daya,"-9.44079358952075, 119.0798369055458",14_PLTS Bilacenge,0.7,Solar,,,Grid-connected,PLN,2017,960,25,16,528,,,2042-01-01 00:00:00
+PLTS Hambapraing,YES,,Sumba,EXACT,Waingapu,15,Sumba Timur,"-9.53867505117162, 120.22339358481119",15_PLTS Hambapraing,1,Solar,,,Grid-connected,PLN,2017,960,25,16,528,,,2042-01-01 00:00:00
+PLTU Timor,YES,,Timor,EXACT,Panaf,17,,"-10.350287142041061, 123.45595746693154",17_PLTU Timor,100,Coal,Subcritical Coal,Subcritical Coal,Grid-connected,PLN,2023,1880,25,22,1598,0.34,10.59,2048-01-01 00:00:00,0.6,8,0.035,0.13,3.5
+PLTU Bolok,YES,,Timor,EXACT,Bolok,18,,"-10.239160871098179, 123.49024034734609",18_PLTU Bolok,33,Coal,Subcritical Coal,Subcritical Coal,Grid-connected,PLN,2013,1880,25,12,658,0.34,10.59,2038-01-01 00:00:00,0.6,8,0.035,0.04,1.16
+PLTU Bolok IPP,YES,,Timor,EXACT,Bolok,18,,"-10.239332624567728, 123.49232764133379",18_PLTU Bolok IPP,30,Coal,Subcritical Coal,Subcritical Coal,Grid-connected,IPP,2016,1880,25,15,940,0.34,10.59,2041-01-01 00:00:00,0.6,8,0.035,0.04,1.05
+PLTMG Kupang Peaker,YES,,Timor,EXACT,Panaf,17,,,17_PLTMG Kupang Peaker,40,Gas,Machine Gas,LNG,Grid-connected,PLN,2020,910,25,19,637,,,2045-01-01 00:00:00,,,0.25,10,10
+PLTS Kupang Oelpuah,YES,,Timor,EXACT,Naibonat,21,,,21_PLTS Kupang Oelpuah,5,Solar,,,Grid-connected,IPP,2016,960,25,15,480,,,2041-01-01 00:00:00
+PLTS Atambua,YES,,Timor,EXACT,Atambua,26,,,26_PLTS Atambua,1,Solar,,,Grid-connected,PLN,2019,960,25,18,624,,,2044-01-01 00:00:00
+PLTD PLN Timor,YES,"4 units, 10.57 MW, PLTD UPK Timor",Timor,APPROX,Tenau,19,,,19_PLTD PLN Timor,10.57,Diesel,,,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,2.6425,2.6425
+PLTD Sewa Timor,YES,"1 unit, 40 MW",Timor,APPROX,Tenau,19,,,19_PLTD Sewa Timor,40,Diesel,,,Grid-connected,IPP,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,10,10
+PLTD Betun,YES,,Timor,APPROX,Malaka,25,,,25_PLTD Betun,1.65,Diesel,,,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,0.4125,0.4125
+PLTD Sewa Betun,YES,,Timor,APPROX,Malaka,25,,,25_PLTD Sewa Betun,3,Diesel,,,Grid-connected,IPP,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,0.75,0.75
+PLTD Rote,YES,,Timor,APPROX,Rote,28,,,28_PLTD Rote,1.54,Diesel,,,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,0.385,0.385
+PLTD Isolated Raijua,NO,,Timor
+PLTD Sabu Seba,YES,,Timor,APPROX,Sabu,29,,,29_PLTD Sabu Seba,3.16,Diesel,,,Grid-connected,PLN,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,0.79,0.79
+PLTD Sewa Sabu Seba,YES,,Timor,APPROX,Sabu,29,,,29_PLTD Sewa Sabu Seba,2,Diesel,,,Grid-connected,IPP,2011,0,25,10,-   ,,,2036-01-01 00:00:00,,,0.25,0.5,0.5

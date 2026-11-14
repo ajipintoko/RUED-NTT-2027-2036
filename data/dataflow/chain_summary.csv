@@ -1,0 +1,44 @@
+from_tree,from_sector,to_tree,to_sector,n_links,n_reading_branches
+Demand,Industri,Indicators,Perbandingan demand listrik,1,1
+Demand,Komersial,Indicators,Indikator Lainnya,12,6
+Demand,Komersial,Indicators,Perbandingan demand listrik,1,1
+Demand,Lainnya,Indicators,Indikator Lainnya,1,1
+Demand,Lainnya,Indicators,Perbandingan demand listrik,1,1
+Demand,Rumah Tangga,Indicators,Konsumsi listrik per kapita,6,4
+Demand,Rumah Tangga,Indicators,Perbandingan demand listrik,1,1
+Demand,Rumah Tangga,Key Assumptions,Roadmap NZE,1,1
+Demand,Rumah Tangga,Key Assumptions,Rumah Tangga,2,1
+Demand,Transportasi,Indicators,Perbandingan demand listrik,1,1
+Key Assumptions,Bangunan Komersial,Demand,Komersial,54,18
+Key Assumptions,Bangunan Komersial,Key Assumptions,Bangunan Komersial,67,21
+Key Assumptions,Demografi,Demand,Komersial,8,2
+Key Assumptions,Demografi,Demand,Lainnya,1,1
+Key Assumptions,Demografi,Demand,Rumah Tangga,1,1
+Key Assumptions,Demografi,Key Assumptions,Bangunan Komersial,10,5
+Key Assumptions,Demografi,Key Assumptions,Demografi,92,37
+Key Assumptions,Makroekonomi,Demand,Industri,5,5
+Key Assumptions,Makroekonomi,Indicators,Indikator Lainnya,1,1
+Key Assumptions,Makroekonomi,Indicators,Intensitas energi primer,1,1
+Key Assumptions,Makroekonomi,Key Assumptions,Makroekonomi,1,1
+Key Assumptions,Populasi,Demand,Komersial,4,4
+Key Assumptions,Populasi,Indicators,Emisi GRK per kapita,1,1
+Key Assumptions,Populasi,Indicators,Energi final per kapita,1,1
+Key Assumptions,Populasi,Indicators,Konsumsi listrik per kapita,4,4
+Key Assumptions,Populasi,Key Assumptions,Bangunan Komersial,5,5
+Key Assumptions,Populasi,Key Assumptions,Demografi,12,12
+Key Assumptions,Populasi,Key Assumptions,Makroekonomi,1,1
+Key Assumptions,Roadmap NZE,Demand,Industri,14,14
+Key Assumptions,Roadmap NZE,Demand,Rumah Tangga,2,2
+Key Assumptions,Roadmap NZE,Demand,Transportasi,8,8
+Key Assumptions,Roadmap NZE,Key Assumptions,Makroekonomi,1,1
+Key Assumptions,Roadmap NZE,Key Assumptions,Transportasi,3,3
+Key Assumptions,Roadmap NZE,Transformation,Biodiesel Blending,1,1
+Key Assumptions,Roadmap NZE,Transformation,Bioethanol Blending,1,1
+Key Assumptions,Roadmap NZE,Transformation,Pembangkit Listrik Offgrid,5,5
+Key Assumptions,Roadmap NZE,Transformation,Pembangkit Listrik Ongrid,5,5
+Key Assumptions,Rumah Tangga,Demand,Rumah Tangga,30,9
+Key Assumptions,Transportasi,Demand,Lainnya,1,1
+Key Assumptions,Transportasi,Demand,Transportasi,21,12
+Key Assumptions,Transportasi,Key Assumptions,Transportasi,3,3
+Key Assumptions,Urbanisasi,Key Assumptions,Demografi,2,2
+Resources,Secondary,Transformation,Pembangkit Listrik Ongrid,4,4

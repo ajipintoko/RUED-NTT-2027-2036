@@ -1,0 +1,51 @@
+No,Sistem,Jenis,Proyek,Kapasitas (MW),COD Skenario RE Base,COD Skenario ARED,Status,Pengembang
+1,Kalabahi,PLTMG,Alor,2x5,2025,2025,Konstruksi,PLN
+2,Kalabahi,PLTMG,Alor 2,10,2030,2030,Rencana,PLN SH
+3,Isolated,PLTS + BESS,Lisdes,3.5,2025,2025,Rencana,PLN
+4,Isolated,PLTS + BESS,Lisdes,2.92,2026,2026,Rencana,PLN
+5,Isolated,PLTS + BESS,Lisdes,5.61,2027,2027,Rencana,PLN
+6,Sumba,PLTM,Sumba (Kuota),1.6,2025,2025,Pengadaan,IPP
+7,Sumba,PLTMG,Waingapu,10,2025,2025,Konstruksi,PLN
+8,Kalabahi,PLTS + BESS,Alor (Kalabahi),1.2,2026,2026,Rencana,PLN
+9,Kalabahi,PLTS + BESS,Kalabahi (Kuota) Tersebar,1,2030,2030,Rencana,IPP
+10,Timor,PLTS + BESS,Betun,0.6,2026,2026,Pengadaan,IPP
+11,Lembata,PLTS + BESS,Lembata,3,2026,2026,Rencana,PLN SH
+12,Rote,PLTB + BESS,Maubesi,3.3,2026,2029,Rencana,PLN SH
+13,Flores,PLTS + BESS,Flores (Labuhan Bajo dan lokasi lain),10,2026,2026,Rencana,IPP
+14,Flores,PLTS + BESS,Flores (Kuota) Tersebar,20,2027,2027,Rencana,IPP
+15,Rote,PLTS + BESS,Rote,1.2,2026,2026,Rencana,PLN
+16,Rote,PLTS + BESS,Rote,2,2026,2026,Rencana,PLN
+17,Sumba,PLTM,Sumba (Kuota) Tersebar,2,2026,2026,Pengadaan,IPP
+18,Sumba,PLTMG,Waingapu 2,10,2026,2026,Committed,PLN SH
+19,Lembata,PLTS + BESS,Lembata,3,2026,2026,Rencana,PLN SH
+20,Sumba,PLTB + BESS,Sumba (Kuota) Tersebar,3,2026,2026,Rencana,IPP
+21,Sumba,PLTS + BESS,Sumba,5,2026,2026,Rencana,PLN SH
+22,Timor,PLTS + BESS,Timor (Kuota) Tersebar,5,2027,2027,Pengadaan,IPP
+23,Flores,PLTM,Wae Lega - Ruteng,1.75,2025,2025,Konstruksi,IPP
+24,Isolated,PLTS + BESS,Desieselisasi,18.54,2027,2027,Rencana,PLN
+25,Lembata,PLTP,Atadei (FTP2),2x5,2030,2030,Pengadaan,PLN SH
+26,Timor,PLTMG,Kupang 2,30,2027,2027,Rencana,PLN SH
+27,Flores,PLTP,Sokoria (FTP2),11,2028,2028,Konstruksi,IPP
+28,Sumba,PLTS + BESS,Sumba,5,2026,2026,Rencana,PLN SH
+29,Sumba,PLTS + BESS,Sumba,5,2026,2026,Rencana,PLN SH
+30,Timor,PLTB + BESS,Timor (Kuota) Tersebar,11,2027,2027,Pengadaan,IPP
+31,Timor,PLTB + BESS,Timor (Kuota) Tersebar,11,2027,2027,Pengadaan,IPP
+32,Timor,PLTS + BESS,Timor (Kuota) Tersebar,5,2027,2027,Pengadaan,IPP
+33,Kalabahi,PLTU,Alor,3,2032,2032,Konstruksi,PLN
+34,Kalabahi,PLTU,Alor,3,2032,2032,Konstruksi,PLN
+35,Flores,PLTM,Flores,3.06,2028,2028,Rencana,PLN
+36,Flores,PLTP,Mataloko (FTP2),10,2031,2031,Rencana,PLN SH
+37,Rote,PLTU,Rote Ndao,2x3,2029,2029,Konstruksi,PLN
+38,Flores,PLTP,Sokoria (FTP2),11,2029,2029,Konstruksi,IPP
+39,Sumba,PLTM,Sumba,1.83,2029,2029,Rencana,PLN
+40,Flores,PLTP,Ulumbu 5,20,2030,2030,Rencana,PLN SH
+41,Flores,PLTP,Mataloko (FTP2),10,2031,2031,Rencana,PLN SH
+42,Sumba,PLTS + BESS,Sumba,5,2026,2026,Rencana,PLN SH
+43,Sumba,PLTS + BESS,Sumba,5,2026,2026,Rencana,PLN SH
+44,Timor,PLTU,Atambua,4x6,2030,2030,Konstruksi,PLN
+45,Flores,PLTP,Ulumbu 6,20,2032,2032,Rencana,PLN SH
+46,Flores,PLTP,Oka Ile Ange (FTP2)*,10,2033,2033,Rencana,PLN SH
+47,Rote,PLTS + BESS,Rote,1,2028,2028,Rencana,PLN SH
+48,Sumba,PLTMG,PLTMG PLN Shrimp Farming,30,2027,2027,Rencana,PLN SH
+49,Sumba,PLTMG,Sumba-1,30,2027,2027,Rencana,PLN SH
+50,Sumba,PLTMG,Sumba-2,30,2033,2033,Rencana,PLN SH

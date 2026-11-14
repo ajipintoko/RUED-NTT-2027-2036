@@ -1,0 +1,30 @@
+abbrev,scenario_id,scenario,parent,kind,description
+CA,1,Current Accounts,,calibration,Calibration year(s) 2019-2025 (historical data); every scenario starts from it
+BAU,2,Baseline,CA,reported scenario,BaU: RUPTL 2025 + gas (Plexos 'RUPTL 2025 + Gas'); all demand-side measures off
+BAS,38,Baseline with simulation,BAU,simulation,Baseline with Dispatch Rule = PercentShare on all on-grid processes (explore Plexos-style dispatch)
+RUPTLRE,36,RUPTL plus RE,BAU,building block,Plexos 'RUPTL + RE' capacity pathway (extra RE candidates replace gas candidates)
+RUP,39,RUPTL plus RE with simulation,RUPTLRE,simulation,RUPTLRE with Dispatch Rule = PercentShare
+RUPTLREF,37,RUPTL plus RE FosCan,BAU,building block,RUPTL plus RE with fossil cancellation (PLTU Alor and Atambua cancelled)
+RUP1,40,RUPTL plus with simulation,RUPTLREF,simulation,RUPTLREF with Dispatch Rule = PercentShare
+REOFFM,13,Rasio Elektrifikasi 2032 dengan Offgrid,BAU,building block,Electrification ratio 100% by 2032 incl. off-grid (Moderate pace)
+REOFFO,14,Rasio Elektrifikasi 2029 dengan Offgrid,BAU,building block,Electrification ratio 100% by 2029 incl. off-grid (Optimis pace)
+RELTSHEM,9,Rasio Elektrifikasi 2032 LTSHE,BAU,building block,Electrification by 2032 using LTSHE
+RELTSHEO,10,Rasio Elektrifikasi 2029 LTSHE,BAU,building block,Electrification by 2029 using LTSHE
+REPLNM,15,Rasio Elektrifikasi 2032 PLN,BAU,building block,Electrification by 2032 via PLN grid
+REPLNO,16,Rasio Elektrifikasi 2029 PLN,BAU,building block,Electrification by 2029 via PLN grid
+KLKOTA,28,Kendaraan Listrik,BAU,building block,EV sales target (Moderate)
+KLKOTAIS,29,Kendaraan Listrik Kota dan Isolated,BAU,building block,EV sales target incl. city and isolated systems (Optimis)
+LPG,11,Konversi LPG,BAU,building block,LPG conversion (cooking)
+KON,33,Konversi LPG dan Kompor Listrik,BAU,building block,LPG conversion plus electric stoves
+PTMX,21,Pertalite Free Day,BAU,building block,Pertalite-free days (shift to Pertamax)
+GPTMX,22,Green Pertamax,BAU,building block,Green Pertamax (bioethanol blend)
+GPTMXKEN,25,Green Pertamax Improvement KEN,GPTMX,building block,Green Pertamax at KEN blend target
+BIODSL,23,Biodiesel Improvement,BAU,building block,Biodiesel blend improvement (Moderate)
+BIODSLKN,24,Biodiesel Improvement KEN,BAU,building block,Biodiesel blend at KEN target (Optimis)
+PLTSA,17,PLTS Atap Quota,BAU,building block,Rooftop PV quota
+PLTSASF,18,PLTS Atap Quota Sekolah dan Faskes,PLTSA,building block,Rooftop PV quota for schools and health facilities
+BIOGAS,30,Biogas Penetrasi,BAU,building block,Household biogas penetration
+BIO,32,Substitusi Biomass untuk Semen,BAU,building block,Biomass substitution in the cement industry
+BUS,31,Kendaraan Umum Bus,BAU,building block,Public bus (modal shift)
+MOD,8,Moderate,BAU,reported scenario,"Moderat: RUPTL + RE (Plexos 'RUPTL + RE'); inherits REOFFM, KLKOTA, KON, PTMX, BIODSL, PLTSA, BIOGAS, RUPTLRE"
+OPT,7,Optimis,BAU,reported scenario,"Optimis: Substitusi RE (Plexos 'Substitusi RE'); inherits REOFFO, KLKOTAIS, KON, BIODSLKN, GPTMXKEN, BIOGAS, BIO, PLTSA, RUPTLREF"

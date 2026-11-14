@@ -1,0 +1,32 @@
+Guideline Warna Chart - Standar IEA World Energy Outlook
+"Referensi: pola pewarnaan berdasarkan konvensi umum publikasi IEA (World Energy Outlook) untuk kategori bahan bakar & sektor emisi. IEA tidak mempublikasikan kode hex resmi; palet ini disusun mengacu gaya visual IEA WEO (fosil=gelap/netral, listrik/gas=biru, EBT=hijau-kuning-teal)."
+
+1. Jenis Bahan Bakar (Fuel Type)
+Bahan Bakar,Kode Warna (Hex),Swatch
+Batu Bara (Coal),#4D4D4D
+Minyak Bumi / BBM (Oil),#7F2704
+Gas Bumi (Natural Gas),#4472C4
+Nuklir (Nuclear),#7030A0
+Tenaga Air (Hydro),#2E75B6
+Bioenergi / Biomassa,#70AD47
+Surya (Solar),#FFC000
+Bayu (Wind),#00B0B0
+Listrik (Electricity),#5B9BD5
+EBT Lainnya (Other Renewables),#A9D18E
+
+2. Sektor Emisi / Konsumsi (Sector)
+Sektor,Kode Warna (Hex),Swatch
+Pembangkit Listrik (Power),#7030A0
+Transportasi (Transport),#ED7D31
+Rumah Tangga (Residential/Buildings),#70AD47
+Industri (Industry),#FFC000
+Komersial (Commercial),#4472C4
+Lainnya (Other),#BFBFBF
+
+3. Garis Reduksi Emisi / Gap Mitigasi (Mitigation Gap Line)
+Elemen,Kode Warna (Hex),Style Garis,Swatch
+Skenario BaU (Business as Usual),#4472C4,Garis solid
+Skenario Moderat,#FFC000,Garis solid
+Skenario Optimis,#70AD47,Garis solid
+Mitigasi / Gap Reduksi Emisi,#000000,"Garis putus-putus (dashed), tanpa isi area"
+Baseline / Referensi,#548235,"Marker titik, tanpa garis"
