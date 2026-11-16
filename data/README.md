@@ -14,6 +14,7 @@ All CSV files are plain-text copies (values only) of the sheets of the original 
 | `calibration/pln_electricity_sales_*.csv` | RUPTL C12.1 / C12.6 | sales 2015–2024 (actual) and 2025–2034 (projection) |
 | `power/ruptl/*.csv` | RUPTL NTT | sales, customers, capacity, demand, RE Base and ARED scenarios, project list, potential |
 | `power/plexos/plexos_*.csv` | Plexos | capacity by type and plant, 2026–2038: `bau_ruptl_gas`, `moderate_ruptl_re`, `optimis_substitusi_re`; `existing_ntt_power_plants` |
+| `power/re_potential/` | RE Potential Mapping | interactive NTT map (HTML) and the utility-scale potential site workbook |
 | `power/load_shapes/*.csv` | LEAP | `Kurva_Beban_NTT`, wind and solar profiles, system load, lifecycle (survival) profiles |
 | `structure/` *(generated)* | `export_structure.py` | `branch_index`, `variables_current_accounts`, `variables_baseline`, `scenario_overrides`; hand-kept `scenarios.csv` |
 | `dataflow/` *(generated)* | `export_structure.py`, `build_flow_tables.py` | `branch_links`, `sector_links`, `key_to_demand_by_source`, `transformation_inputs`, `chain_summary` |
