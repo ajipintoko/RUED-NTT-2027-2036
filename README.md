@@ -63,6 +63,7 @@ flowchart LR
 | Update the data for the next year | [docs/data-update.md](docs/data-update.md) |
 | Trace a value, add a branch, refresh the exports | [docs/how-to.md](docs/how-to.md) |
 | Things that look wrong and should be checked | [docs/known-issues.md](docs/known-issues.md) |
+| Use the RE potential map filters and estimate un-electrified areas | [docs/re-potential-map.md](docs/re-potential-map.md) |
 | Look up a term or acronym | [docs/glossary.md](docs/glossary.md) |
 | Know what every data file is | [data/README.md](data/README.md) |
 
