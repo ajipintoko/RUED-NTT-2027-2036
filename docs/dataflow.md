@@ -6,7 +6,7 @@ How a number travels from a data source to a result, and which part of the model
 
 ```mermaid
 flowchart TD
-    SRC["Data sources<br/>BPS, Dinas, PLN UIW NTT, DESDM NTT,<br/>RUPTL 2025-2034, ministries"]
+    SRC["Data sources<br/>BPS, Dinas, PLN UIW NTT, ESDM energy-mix worksheets,<br/>RUPTL 2025-2034, ministries"]
     XL["Data untuk RUED NTT 2024.xlsx<br/>(data/inputs/*.csv)"]
     KEY["LEAP Key Assumptions<br/>data blocks 2019-2025<br/>+ projection expressions"]
     DEM["Demand tree<br/>activity x intensity / total energy / device share"]
@@ -15,7 +15,7 @@ flowchart TD
     OUT["Results<br/>final energy, capacity, supply, emissions"]
     REP["data/results<br/>RUED report tables"]
     PLX["Plexos power model<br/>(RUPTL demand, existing NTT grid)"]
-    CAL1["Historical Energy Mix<br/>DESDM NTT"]
+    CAL1["Bauran Energi Daerah 2021-2025<br/>ESDM worksheets"]
     CAL2["Penjualan Tenaga Listrik GWh<br/>PLN UIW NTT"]
 
     SRC --> XL --> KEY
@@ -177,8 +177,8 @@ flowchart LR
 
 | What is calibrated | Against | Where it enters LEAP | Years |
 |---|---|---|---|
-| Overall energy consumption and **primary energy** per fuel (BBM, coal, EBT, biomass, biogas) | **Historical Energy Mix** (DESDM NTT): BBM in kL → BOE, coal, EBT, electricity by user | Demand data blocks (`Total Energy`, `Interp` / `Step` series) in Current Accounts; checked against Resources primary supply | 2021–2025 |
-| **Off-grid** (and on-grid) generation by technology | Historical Energy Mix, electricity section (installed MW × capacity factor → GWh) | `Exogenous Capacity` and `Historical Production` of each process in Current Accounts; Offgrid capacities | 2021–2025 |
+| Overall energy consumption and **primary energy** per fuel (BBM, coal, EBT, biomass, biogas) | **Bauran Energi Daerah worksheets** (ESDM template, NTT 2021–2025): BBM in kL → BOE, coal, gas, EBT | Demand data blocks (`Total Energy`, `Interp` / `Step` series) in Current Accounts; checked against Resources primary supply | 2021–2025 |
+| **Off-grid** (and on-grid) generation by technology | Bauran Energi Daerah, electricity part (installed MW on/off-grid, generation GWh) | `Exogenous Capacity` and `Historical Production` of each process in Current Accounts; Offgrid capacities | 2021–2025 |
 | Electricity load | **Penjualan Tenaga Listrik GWh** (PLN UIW NTT; RUPTL C12.1/C12.6) | Indicators `Perbandingan demand listrik` (RUED vs PLN by customer group); T&D `Losses` | 2015–2034 |
 | Load shape | RUPTL / PLN hourly load (`Kurva_Beban_NTT`) | `Load Shapes` branches | typical year |
 

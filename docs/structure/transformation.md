@@ -67,8 +67,8 @@ Processes: `PLTS`, `PLTD`, `PLTM`, `PLTMH`, `PLTS Atap`, `PLTHybrid`, `PLTS Komu
 
 * `PLTD` is the balancing plant (`Process Share = Remainder(100)`, `PercentShare` dispatch, 108.5 MW, merit order 2, fuel `Biodiesel`). Its availability is calibrated: `90 × Interp(2021; 0.32; 2022; 0.36; 2023; 0.99)`.
 * `PLTS`, `PLTS Atap`, `PLTS Komunal Candidate` read `Key\Roadmap NZE\Target kapasitas PLTS\Target kapasitas PLTS atap offgrid`.
-* `PLTM`, `PLTMH`, `PLTHybrid` carry the historical capacities of the DESDM list (e.g. PLTMH `Step(2021; 2.58; 2022; 2.68; 2023; 3.51; 2025; 2.71)`).
-* Off-grid is calibrated with the **Historical Energy Mix**; there is no Plexos run for off-grid.
+* `PLTM`, `PLTMH`, `PLTHybrid` carry the historical capacities of the Bauran Energi Daerah worksheets (e.g. PLTMH `Step(2021; 2.58; 2022; 2.68; 2023; 3.51; 2025; 2.71)`).
+* Off-grid is calibrated with the **Bauran Energi Daerah worksheets** (on/off-grid capacity and generation by technology); there is no Plexos run for off-grid.
 
 ## Load Shapes
 

@@ -1,0 +1,280 @@
+Tahun,Baris,Bagian,Blok,Grup,No,Item,Item_normal,Campuran,Satuan,Faktor_BOE,CF_Efisiensi,Nilai,Off_grid,BOE,TOE,Catatan,Sumber_file
+2021,10,Minyak Bumi,Konsumsi,BBM,1,Ron 98/95,Ron 98/95,,KL,5.8275,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,11,Minyak Bumi,Konsumsi,BBM,2,Ron 92,Ron 92,,KL,5.8275,,40802.0,,237773.655,33288.311700000006,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,12,Minyak Bumi,Konsumsi,BBM,3,Ron 90/88/89,Ron 90/88/89,,KL,5.8275,,326079.0,,1900225.3724999998,266031.55215,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,13,Minyak Bumi,Konsumsi,BBM,4,Solar 48/51/53 (Murni),Solar 48/51/53 (murni),,KL,6.4871,,18092.0,,117364.61319999999,16431.045848,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,14,Minyak Bumi,Konsumsi,BBM,5,Solar 48/51 (B20 ),Biosolar 48/51 (campuran B),B20,KL,6.4871,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,15,Minyak Bumi,Konsumsi,BBM,6,Solar 48/51 (B30),Biosolar 48/51 (campuran B),B30,KL,6.4871,,244299.3,,1584793.9890299998,221871.1584642,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,16,Minyak Bumi,Konsumsi,BBM,7,Minyak Tanah,Minyak Tanah,,KL,5.9274,,108412.0,,642601.2888,89964.18043200001,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,17,Minyak Bumi,Konsumsi,BBM,8,Minyak Bakar 180/380 (MFO),Minyak Bakar 180/380 (MFO),,KL,6.9612,,38949.0,,271131.7788,37958.449032,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,18,Minyak Bumi,Konsumsi,BBM,9,Minyak Diesel (IDO),Minyak Diesel (IDO),,KL,6.6078,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,19,Minyak Bumi,Konsumsi,BBM,10,Avgas,Avgas,,KL,5.553,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,20,Minyak Bumi,Konsumsi,BBM,11,Avtur,Avtur,,KL,5.8907,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,21,Minyak Bumi,Konsumsi,BBM,12,Biogasoline (E5),Biogasoline (E5),,KL,5.8275,,0.0,,0.0,0.0,*) disesuaikan dengan porsi campuran,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,24,Minyak Bumi,Konsumsi,LPG,1,LPG,LPG,,Mton,8.5246,,1559.0,,13289.8514,1860.5791960000001,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,25,Minyak Bumi,Total,,,Total Pasokan Minyak Bumi,Total Pasokan Minyak Bumi,,,,,,,4767180.54873,667405.2768222,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,28,Gas Bumi,Konsumsi,Jaringan Gas Kota,I,Jaringan Gas Kota,Jaringan Gas Kota,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,29,Gas Bumi,Konsumsi,Pembangkit,II,Pembangkit,Pembangkit,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,30,Gas Bumi,Konsumsi,Industri,III,Industri,Industri,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,31,Gas Bumi,Konsumsi,Komersial,IV,Komersial,Komersial,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,32,Gas Bumi,Total,,,Total Pasokan Gas Bumi,Total Pasokan Gas Bumi,,,,,,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,35,Batubara,Konsumsi,Pembangkit,I,Pembangkit,Pembangkit,,ton,3.4417,,403131.0,,1387455.9627,194243.83477800002,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,36,Batubara,Konsumsi,Industri,II,Industri,Industri,,ton,3.4417,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,37,Batubara,Total,,,Total Pasokan Batubara,Total Pasokan Batubara,,,,,,,1387455.9627,194243.83477800002,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,40,EBT,Konsumsi,FAME,I,FAME,FAME (semua campuran B),FAME,KL,6.4871,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,41,EBT,Konsumsi,FAME,2,B30,FAME (semua campuran B),B30,KL,6.4871,,104699.7,,679197.4238699999,95087.63934180001,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,42,EBT,Konsumsi,Etanol,II,Etanol,Etanol (E5),Etanol,KL,5.8275,,0.0,,0.0,0.0,*) disesuaikan dengan porsi campuran,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,43,EBT,Konsumsi,Biogas Rumah Tangga,III,Biogas Rumah Tangga,Biogas Rumah Tangga,,m3/tahun,0.006341676000000001,,1052262.0,,6673.104671112001,934.2346539556802,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,44,EBT,Konsumsi,Biomassa,IV,Biomassa,Biomassa,,ton,3.4417,,131.0,,335.7399,47.003586,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,45,EBT,Konsumsi,Kayu Bakar,V,Kayu Bakar,Kayu Bakar,,ton,2.5629,,2200020.051346236,,5638431.389595268,789380.3945433376,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,46,EBT,Subtotal,,,Subtotal EBT Non Listrik,Subtotal EBT Non Listrik,,,,,,,6324637.65803638,885449.2721250933,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,50,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,1,PLTP,PLTP,,MW,,0.9,12.5,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,51,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,2,PLTA,PLTA,,MW,,0.6,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,52,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,3,PLTMH,PLTMH,,MW,,0.6,0.0,2.58,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,53,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,4,PLTM,PLTM,,MW,,0.6,7.58,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,54,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,5,PLTS,PLTS,,MW,,0.2,16.59,1.306,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,55,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,6,PLTS Atap,PLTS Atap,,MW,,0.2,0.34,0.025,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,56,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,7,PLTB,PLTB,,MW,,0.5,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,57,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,8,PLTBM,PLTBM,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,58,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,9,PLTBG,PLTBG,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,59,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,10,PLTSa,PLTSa,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,60,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,11,PLT Hybrid,PLT Hybrid,,MW,,0.17,0.1,0.04,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,64,EBT,Produksi listrik,Pembangkit Energi Terbarukan,1,PLTP,PLTP,,GWh,,0.33,98.55,0.0,183064.0909090909,25628.97272727273,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,65,EBT,Produksi listrik,Pembangkit Energi Terbarukan,2,PLTA,PLTA,,GWh,,0.33,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,66,EBT,Produksi listrik,Pembangkit Energi Terbarukan,3,PLTMH,PLTMH,,GWh,,0.25,0.0,13.56048,33250.29696,4655.0415744,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,67,EBT,Produksi listrik,Pembangkit Energi Terbarukan,4,PLTM,PLTM,,GWh,,0.25,39.84048000000001,0.0,97688.85696,13676.439974400002,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,68,EBT,Produksi listrik,Pembangkit Energi Terbarukan,5,PLTS,PLTS,,GWh,,0.13,29.06568,2.2881120000000004,147845.18843076925,20698.3263803077,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,69,EBT,Produksi listrik,Pembangkit Energi Terbarukan,6,PLTS Atap,PLTS Atap,,GWh,,0.13,0.5956800000000001,0.04380000000000001,3015.394153846154,422.1551815384616,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,70,EBT,Produksi listrik,Pembangkit Energi Terbarukan,7,PLTB,PLTB,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,71,EBT,Produksi listrik,Pembangkit Energi Terbarukan,8,PLTBM,PLTBM,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,72,EBT,Produksi listrik,Pembangkit Energi Terbarukan,9,PLTBG,PLTBG,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,73,EBT,Produksi listrik,Pembangkit Energi Terbarukan,10,PLTSa,PLTSa,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,74,EBT,Produksi listrik,Pembangkit Energi Terbarukan,11,PLT Hybrid,PLT Hybrid,,GWh,,0.13,0.14892000000000002,0.059568,983.1011076923078,137.6341550769231,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,75,EBT,Produksi listrik,Pembangkit Energi Terbarukan,12,PJUTS,PJUTS,,GWh,,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,76,EBT,Produksi listrik,Pembangkit Energi Terbarukan,13,LTSHE,LTSHE,,GWh,,,312.50023376,,191562.64329488002,26818.770061283205,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,77,EBT,Subtotal,,,Subtotal EBT  Listrik,Subtotal EBT  Listrik,,,,,,,657409.5718162786,92037.34005427902,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2021,78,EBT,Total,,,Total Pasokan Energi Baru Terbarukan,Total Pasokan Energi Baru Terbarukan,,,,,,,6982047.229852659,977486.6121793722,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT 2021-edit sas.xlsx
+2022,10,Minyak Bumi,Konsumsi,BBM,1,Ron 98/95,Ron 98/95,,KL,5.8275,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,11,Minyak Bumi,Konsumsi,BBM,2,Ron 92,Ron 92,,KL,5.8275,,34498.1842774616,,201038.16887690747,28145.34364276705,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,12,Minyak Bumi,Konsumsi,BBM,3,Ron 90/88/89,Ron 90/88/89,,KL,5.8275,,348630.191593202,,2031642.4415093847,284429.94181131385,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,13,Minyak Bumi,Konsumsi,BBM,4,Solar 48/51/53 (Murni),Solar 48/51/53 (murni),,KL,6.4871,,24771.0178771216,,160692.07007067555,22496.88980989458,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,14,Minyak Bumi,Konsumsi,BBM,5,Solar 48/51 (B20 ),Biosolar 48/51 (campuran B),B20,KL,6.4871,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,15,Minyak Bumi,Konsumsi,BBM,6,Solar 48/51 (B30),Biosolar 48/51 (campuran B),B30,KL,6.4871,,241355.97967860466,,1565700.3757730762,219198.05260823068,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,16,Minyak Bumi,Konsumsi,BBM,7,Minyak Tanah,Minyak Tanah,,KL,5.9274,,109265.740613998,,647661.7509154117,90672.64512815766,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,17,Minyak Bumi,Konsumsi,BBM,8,Minyak Bakar 180/380 (MFO),Minyak Bakar 180/380 (MFO),,KL,6.9612,,26603.0,,185188.80359999998,25926.432504,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,18,Minyak Bumi,Konsumsi,BBM,9,Minyak Diesel (IDO),Minyak Diesel (IDO),,KL,6.6078,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,19,Minyak Bumi,Konsumsi,BBM,10,Avgas,Avgas,,KL,5.553,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,20,Minyak Bumi,Konsumsi,BBM,11,Avtur,Avtur,,KL,5.8907,,31023.7001606432,,182751.31053630088,25585.183475082125,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,21,Minyak Bumi,Konsumsi,BBM,12,Biogasoline (E5),Biogasoline (E5),,KL,5.8275,,0.0,,0.0,0.0,*) disesuaikan dengan porsi campuran,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,24,Minyak Bumi,Konsumsi,LPG,1,LPG,LPG,,Mton,8.5246,,1796.01744719001,,15310.33033031596,2143.4462462442343,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,25,Minyak Bumi,Total,,,Total Pasokan Minyak Bumi,Total Pasokan Minyak Bumi,,,,,,,4989985.251612073,698597.9352256902,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,28,Gas Bumi,Konsumsi,Jaringan Gas Kota,I,Jaringan Gas Kota,Jaringan Gas Kota,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,29,Gas Bumi,Konsumsi,Pembangkit,II,Pembangkit,Pembangkit,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,30,Gas Bumi,Konsumsi,Industri,III,Industri,Industri,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,31,Gas Bumi,Konsumsi,Komersial,IV,Komersial,Komersial,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,32,Gas Bumi,Konsumsi,Transportasi,V,Transportasi,Transportasi,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,33,Gas Bumi,Total,,,Total Pasokan Gas Bumi,Total Pasokan Gas Bumi,,,,,,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,36,Batubara,Konsumsi,Pembangkit,I,Pembangkit,Pembangkit,,ton,3.4417,,511545.017131182,,1760584.4854603892,246481.8279644545,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,37,Batubara,Konsumsi,Industri,II,Industri,Industri,,ton,3.4417,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,38,Batubara,Total,,,Total Pasokan Batubara,Total Pasokan Batubara,,,,,,,1760584.4854603892,246481.8279644545,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,41,EBT,Konsumsi,FAME,I,FAME,FAME (semua campuran B),FAME,KL,6.4871,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,42,EBT,Konsumsi,FAME,2,B30,FAME (semua campuran B),B30,KL,6.4871,,103438.2770051163,,671014.44675989,93942.0225463846,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,43,EBT,Konsumsi,Etanol,II,Etanol,Etanol (E5),Etanol,KL,5.8275,,0.0,,0.0,0.0,*) disesuaikan dengan porsi campuran,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,44,EBT,Konsumsi,Biogas Rumah Tangga,III,Biogas Rumah Tangga,Biogas Rumah Tangga,,m3/tahun,0.006341676000000001,,1120704.75938869,,7107.146475701032,995.0005065981445,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,45,EBT,Konsumsi,Biomassa,IV,Biomassa,Biomassa,,ton,3.4417,,1444.02814212091,,4969.911656737536,695.7876319432551,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,46,EBT,Konsumsi,Kayu Bakar,V,Kayu Bakar,Kayu Bakar,,ton,2.5629,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,47,EBT,Subtotal,,,Subtotal EBT Non Listrik,Subtotal EBT Non Listrik,,,,,,,683091.5048923285,95632.810684926,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,51,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,1,PLTP,PLTP,,MW,,0.9,19.08,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,52,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,2,PLTA,PLTA,,MW,,0.6,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,53,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,3,PLTMH,PLTMH,,MW,,0.6,0.13,2.68,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,54,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,4,PLTM,PLTM,,MW,,0.6,7.58,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,55,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,5,PLTS,PLTS,,MW,,0.2,14.84,4.75,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,56,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,6,PLTS Atap,PLTS Atap,,MW,,0.2,0.3,0.05,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,57,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,7,PLTB,PLTB,,MW,,0.5,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,58,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,8,PLTBM,PLTBM,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,59,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,9,PLTBG,PLTBG,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,60,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,10,PLTSa,PLTSa,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,61,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,11,PLT Hybrid,PLT Hybrid,,MW,,0.17,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,65,EBT,Produksi listrik,Pembangkit Energi Terbarukan,1,PLTP,PLTP,,GWh,,0.33,150.42672,0.0,279429.02836363635,39120.06397090909,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,66,EBT,Produksi listrik,Pembangkit Energi Terbarukan,2,PLTA,PLTA,,GWh,,0.33,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,67,EBT,Produksi listrik,Pembangkit Energi Terbarukan,3,PLTMH,PLTMH,,GWh,,0.25,0.68328,14.086080000000003,36214.47072000001,5070.025900800002,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,68,EBT,Produksi listrik,Pembangkit Energi Terbarukan,4,PLTM,PLTM,,GWh,,0.25,39.84048000000001,0.0,97688.85696,13676.439974400002,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,69,EBT,Produksi listrik,Pembangkit Energi Terbarukan,5,PLTS,PLTS,,GWh,,0.13,25.99968,8.322,161839.92184615383,22657.589058461537,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,70,EBT,Produksi listrik,Pembangkit Energi Terbarukan,6,PLTS Atap,PLTS Atap,,GWh,,0.13,0.5256000000000001,0.08760000000000003,2891.4738461538464,404.80633846153853,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,71,EBT,Produksi listrik,Pembangkit Energi Terbarukan,7,PLTB,PLTB,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,72,EBT,Produksi listrik,Pembangkit Energi Terbarukan,8,PLTBM,PLTBM,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,73,EBT,Produksi listrik,Pembangkit Energi Terbarukan,9,PLTBG,PLTBG,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,74,EBT,Produksi listrik,Pembangkit Energi Terbarukan,10,PLTSa,PLTSa,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,75,EBT,Produksi listrik,Pembangkit Energi Terbarukan,11,PLT Hybrid,PLT Hybrid,,GWh,,0.13,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,76,EBT,Produksi listrik,Pembangkit Energi Terbarukan,12,PJUTS,PJUTS,,GWh,,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,77,EBT,Produksi listrik,Pembangkit Energi Terbarukan,13,LTSHE,LTSHE,,GWh,,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,78,EBT,Subtotal,,,Subtotal EBT  Listrik,Subtotal EBT  Listrik,,,,,,,578063.751735944,80928.92524303216,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2022,79,EBT,Total,,,Total Pasokan Energi Baru Terbarukan,Total Pasokan Energi Baru Terbarukan,,,,,,,1261155.2566282726,176561.73592795816,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi NTT- 2022 ok.xlsx
+2023,10,Minyak Bumi,Konsumsi,BBM,1,Ron 98/95,Ron 98/95,,KL,5.8275,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,11,Minyak Bumi,Konsumsi,BBM,2,Ron 92,Ron 92,,KL,5.8275,,32380.955,,188700.0152625,26418.002136750005,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,12,Minyak Bumi,Konsumsi,BBM,3,Ron 90/88/89,Ron 90/88/89,,KL,5.8275,,351409.881,,2047841.0815275,286697.75141385,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,13,Minyak Bumi,Konsumsi,BBM,4,Solar 48/51/53 (Murni),Solar 48/51/53 (murni),,KL,6.4871,,17005.947,,110319.27878369999,15444.699029718,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,14,Minyak Bumi,Konsumsi,BBM,5,Solar 48/51 (B20 ),Biosolar 48/51 (campuran B),B20,KL,6.4871,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,15,Minyak Bumi,Konsumsi,BBM,6,Solar 48/51 (B35),Biosolar 48/51 (campuran B),B35,KL,6.4871,,261259.58625000002,,1694817.0619623752,237274.38867473256,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,16,Minyak Bumi,Konsumsi,BBM,7,Minyak Tanah,Minyak Tanah,,KL,5.9274,,109458.5,,648804.3128999999,90832.603806,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,17,Minyak Bumi,Konsumsi,BBM,8,Minyak Bakar 180/380 (MFO),Minyak Bakar 180/380 (MFO),,KL,6.9612,,36539.034,,254355.52348079998,35609.773287312004,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,18,Minyak Bumi,Konsumsi,BBM,9,Minyak Diesel (IDO),Minyak Diesel (IDO),,KL,6.6078,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,19,Minyak Bumi,Konsumsi,BBM,10,Avgas,Avgas,,KL,5.553,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,20,Minyak Bumi,Konsumsi,BBM,11,Avtur,Avtur,,KL,5.8907,,36451.918,,214727.3133626,30061.823870764,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,21,Minyak Bumi,Konsumsi,BBM,12,Biogasoline (E5),Biogasoline (E5),,KL,5.8275,,0.0,,0.0,0.0,*) disesuaikan dengan porsi campuran,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,24,Minyak Bumi,Konsumsi,LPG,1,LPG,LPG,,Mton,8.5246,,1584.613,,13508.1919798,1891.1468771720001,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,25,Minyak Bumi,Total,,,Total Pasokan Minyak Bumi,Total Pasokan Minyak Bumi,,,,,,,5173072.779259276,724230.1890962987,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,28,Gas Bumi,Konsumsi,Jaringan Gas Kota,I,Jaringan Gas Kota,Jaringan Gas Kota,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,29,Gas Bumi,Konsumsi,Pembangkit,II,Pembangkit,Pembangkit,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,30,Gas Bumi,Konsumsi,Industri,III,Industri,Industri,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,31,Gas Bumi,Konsumsi,Komersial,IV,Komersial,Komersial,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,32,Gas Bumi,Konsumsi,Transportasi,V,Transportasi,Transportasi,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,33,Gas Bumi,Total,,,Total Pasokan Gas Bumi,Total Pasokan Gas Bumi,,,,,,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,36,Batubara,Konsumsi,Pembangkit,I,Pembangkit,Pembangkit,,ton,3.4417,,663495.255935259,,2283551.6223523812,319697.2271293334,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,37,Batubara,Konsumsi,Industri,II,Industri,Industri,,ton,3.4417,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,38,Batubara,Total,,,Total Pasokan Batubara,Total Pasokan Batubara,,,,,,,2283551.6223523812,319697.2271293334,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,41,EBT,Konsumsi,FAME,I,FAME,FAME (semua campuran B),FAME,KL,6.4871,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,42,EBT,Konsumsi,FAME,2,B35,FAME (semua campuran B),B35,KL,6.4871,,140678.23875,,912593.8025951249,127763.1323633175,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,43,EBT,Konsumsi,Etanol,II,Etanol,Etanol (E5),Etanol,KL,5.8275,,0.0,,0.0,0.0,*) disesuaikan dengan porsi campuran,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,44,EBT,Konsumsi,Biogas Rumah Tangga,III,Biogas Rumah Tangga,Biogas Rumah Tangga,,m3/tahun,0.006341676000000001,,1040133.58720732,,6596.190206786569,923.4666289501198,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,45,EBT,Konsumsi,Biomassa,IV,Biomassa,Biomassa,,ton,3.4417,,1985.07,,6832.015418999999,956.48215866,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,46,EBT,Konsumsi,Kayu Bakar,V,Kayu Bakar,Kayu Bakar,,ton,2.5629,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,47,EBT,Subtotal,,,Subtotal EBT Non Listrik,Subtotal EBT Non Listrik,,,,,,,926022.0082209115,129643.08115092762,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,51,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,1,PLTP,PLTP,,MW,,0.9,24.081,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,52,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,2,PLTA,PLTA,,MW,,0.6,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,53,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,3,PLTMH,PLTMH,,MW,,0.6,1.076,3.5072,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,54,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,4,PLTM,PLTM,,MW,,0.6,5.7,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,55,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,5,PLTS,PLTS,,MW,,0.2,19.051,3.40124,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,56,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,6,PLTS Atap,PLTS Atap,,MW,,0.2,0.44,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,57,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,7,PLTB,PLTB,,MW,,0.5,0.09,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,58,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,8,PLTBM,PLTBM,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,59,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,9,PLTBG,PLTBG,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,60,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,10,PLTSa,PLTSa,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,61,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,11,PLT Hybrid,PLT Hybrid,,MW,,0.17,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,65,EBT,Produksi listrik,Pembangkit Energi Terbarukan,1,PLTP,PLTP,,GWh,,0.33,189.854604,0.0,352669.30985454546,49373.70337963637,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,66,EBT,Produksi listrik,Pembangkit Energi Terbarukan,2,PLTA,PLTA,,GWh,,0.33,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,67,EBT,Produksi listrik,Pembangkit Energi Terbarukan,3,PLTMH,PLTMH,,GWh,,0.25,5.655456,18.4338432,59066.9616384,8269.374629376,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,68,EBT,Produksi listrik,Pembangkit Energi Terbarukan,4,PLTM,PLTM,,GWh,,0.25,29.9592,0.0,73459.95839999999,10284.394176,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,69,EBT,Produksi listrik,Pembangkit Energi Terbarukan,5,PLTS,PLTS,,GWh,,0.13,33.377352,5.958972480000001,185485.89927876924,25968.025899027696,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,70,EBT,Produksi listrik,Pembangkit Energi Terbarukan,6,PLTS Atap,PLTS Atap,,GWh,,0.13,0.7708800000000001,0.0,3634.995692307693,508.89939692307706,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,71,EBT,Produksi listrik,Pembangkit Energi Terbarukan,7,PLTB,PLTB,,GWh,,0.25,0.3942,0.0,966.5784,135.320976,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,72,EBT,Produksi listrik,Pembangkit Energi Terbarukan,8,PLTBM,PLTBM,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,73,EBT,Produksi listrik,Pembangkit Energi Terbarukan,9,PLTBG,PLTBG,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,74,EBT,Produksi listrik,Pembangkit Energi Terbarukan,10,PLTSa,PLTSa,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,75,EBT,Produksi listrik,Pembangkit Energi Terbarukan,11,PLT Hybrid,PLT Hybrid,,GWh,,0.13,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,76,EBT,Produksi listrik,Pembangkit Energi Terbarukan,12,PJUTS,PJUTS,,GWh,,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,77,EBT,Produksi listrik,Pembangkit Energi Terbarukan,13,LTSHE,LTSHE,,GWh,,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,78,EBT,Subtotal,,,Subtotal EBT  Listrik,Subtotal EBT  Listrik,,,,,,,675283.7032640224,94539.71845696314,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2023,79,EBT,Total,,,Total Pasokan Energi Baru Terbarukan,Total Pasokan Energi Baru Terbarukan,,,,,,,1601305.7114849337,224182.79960789077,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2023.xlsx
+2024,10,Minyak Bumi,Konsumsi,BBM,1,Ron 98/95,Ron 98/95,,KL,5.8275,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,11,Minyak Bumi,Konsumsi,BBM,2,Ron 92,Ron 92,,KL,5.8275,,45169.101,,263222.9360775,36851.211050850005,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,12,Minyak Bumi,Konsumsi,BBM,3,Ron 90/88/89,Ron 90/88/89,,KL,5.8275,,353555.278,,2060343.382545,288448.0735563,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,13,Minyak Bumi,Konsumsi,BBM,4,Solar 48/51/53 (Murni),Solar 48/51/53 (murni),,KL,6.4871,,16528.654000000002,,107223.03136340002,15011.224390876005,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,14,Minyak Bumi,Konsumsi,BBM,5,Solar 48/51 (B20 ),Biosolar 48/51 (campuran B),B20,KL,6.4871,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,15,Minyak Bumi,Konsumsi,BBM,6,Solar 48/51 (B35),Biosolar 48/51 (campuran B),B35,KL,6.4871,,277957.5682,,1803138.5406702198,252439.3956938308,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,16,Minyak Bumi,Konsumsi,BBM,7,Minyak Tanah,Minyak Tanah,,KL,5.9274,,110608.6,,655621.41564,91786.99818960001,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,17,Minyak Bumi,Konsumsi,BBM,8,Minyak Bakar 180/380 (MFO),Minyak Bakar 180/380 (MFO),,KL,6.9612,,24490.329,,170482.07823480002,23867.490952872005,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,18,Minyak Bumi,Konsumsi,BBM,9,Minyak Diesel (IDO),Minyak Diesel (IDO),,KL,6.6078,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,19,Minyak Bumi,Konsumsi,BBM,10,Avgas,Avgas,,KL,5.553,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,20,Minyak Bumi,Konsumsi,BBM,11,Avtur,Avtur,,KL,5.8907,,32646.187,,192308.8937609,26923.245126526006,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,21,Minyak Bumi,Konsumsi,BBM,12,Biogasoline (E5),Biogasoline (E5),,KL,5.8275,,0.0,,0.0,0.0,*) disesuaikan dengan porsi campuran,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,24,Minyak Bumi,Konsumsi,LPG,1,LPG,LPG,,Mton,8.5246,,1755.842,,14967.8507132,2095.4990998480002,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,25,Minyak Bumi,Total,,,Total Pasokan Minyak Bumi,Total Pasokan Minyak Bumi,,,,,,,5267308.12900502,737423.1380607027,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,28,Gas Bumi,Konsumsi,Jaringan Gas Kota,I,Jaringan Gas Kota,Jaringan Gas Kota,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,29,Gas Bumi,Konsumsi,Pembangkit,II,Pembangkit,Pembangkit,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,30,Gas Bumi,Konsumsi,Industri,III,Industri,Industri,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,31,Gas Bumi,Konsumsi,Komersial,IV,Komersial,Komersial,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,32,Gas Bumi,Konsumsi,Transportasi,V,Transportasi,Transportasi,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,33,Gas Bumi,Total,,,Total Pasokan Gas Bumi,Total Pasokan Gas Bumi,,,,,,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,36,Batubara,Konsumsi,Pembangkit,I,Pembangkit,Pembangkit,,ton,3.4417,,496528.063,,1708900.6344271002,239246.08881979404,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,37,Batubara,Konsumsi,Industri,II,Industri,Industri,,ton,3.4417,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,38,Batubara,Total,,,Total Pasokan Batubara,Total Pasokan Batubara,,,,,,,1708900.6344271002,239246.08881979404,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,41,EBT,Konsumsi,FAME,I,FAME,FAME (semua campuran B),FAME,KL,6.4871,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,42,EBT,Konsumsi,FAME,2,B35,FAME (semua campuran B),B35,KL,6.4871,,149669.45979999998,,970920.7526685798,135928.90537360118,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,43,EBT,Konsumsi,Etanol,II,Etanol,Etanol (E5),Etanol,KL,5.8275,,0.0,,0.0,0.0,*) disesuaikan dengan porsi campuran,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,44,EBT,Konsumsi,Biogas Rumah Tangga,III,Biogas Rumah Tangga,Biogas Rumah Tangga,,m3/tahun,0.006341676000000001,,613440.0,,3890.2377254400008,544.6332815616001,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,45,EBT,Konsumsi,Biomassa,IV,Biomassa,Biomassa,,ton,3.4417,,5171.5433721199,,17798.900823825057,2491.8461153355083,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,46,EBT,Konsumsi,Kayu Bakar,V,Kayu Bakar,Kayu Bakar,,ton,2.5629,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,47,EBT,Subtotal,,,Subtotal EBT Non Listrik,Subtotal EBT Non Listrik,,,,,,,992609.8912178448,138965.3847704983,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,51,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,1,PLTP,PLTP,,MW,,0.9,24.08,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,52,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,2,PLTA,PLTA,,MW,,0.6,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,53,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,3,PLTMH,PLTMH,,MW,,0.6,1.876,2.7072,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,54,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,4,PLTM,PLTM,,MW,,0.6,5.7,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,55,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,5,PLTS,PLTS,,MW,,0.2,19.6569,2.7786999999999997,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,56,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,6,PLTS Atap,PLTS Atap,,MW,,0.2,0.141255,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,57,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,7,PLTB,PLTB,,MW,,0.5,0.09,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,58,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,8,PLTBM,PLTBM,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,59,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,9,PLTBG,PLTBG,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,60,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,10,PLTSa,PLTSa,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,61,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,11,PLT Hybrid,PLT Hybrid,,MW,,0.17,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,65,EBT,Produksi listrik,Pembangkit Energi Terbarukan,1,PLTP,PLTP,,GWh,,0.33,189.84672,0.0,352654.6647272727,49371.653061818186,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,66,EBT,Produksi listrik,Pembangkit Energi Terbarukan,2,PLTA,PLTA,,GWh,,0.33,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,67,EBT,Produksi listrik,Pembangkit Energi Terbarukan,3,PLTMH,PLTMH,,GWh,,0.25,9.860256,14.229043199999998,59066.9616384,8269.374629376,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,68,EBT,Produksi listrik,Pembangkit Energi Terbarukan,4,PLTM,PLTM,,GWh,,0.25,29.9592,0.0,73459.95839999999,10284.394176,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,69,EBT,Produksi listrik,Pembangkit Energi Terbarukan,5,PLTS,PLTS,,GWh,,0.13,34.4388888,4.8682824,185348.43035076922,25948.780249107695,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,70,EBT,Produksi listrik,Pembangkit Energi Terbarukan,6,PLTS Atap,PLTS Atap,,GWh,,0.13,0.24747876,0.0,1166.9575375384616,163.37405525538463,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,71,EBT,Produksi listrik,Pembangkit Energi Terbarukan,7,PLTB,PLTB,,GWh,,0.25,0.3942,0.0,966.5784,135.320976,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,72,EBT,Produksi listrik,Pembangkit Energi Terbarukan,8,PLTBM,PLTBM,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,73,EBT,Produksi listrik,Pembangkit Energi Terbarukan,9,PLTBG,PLTBG,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,74,EBT,Produksi listrik,Pembangkit Energi Terbarukan,10,PLTSa,PLTSa,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,75,EBT,Produksi listrik,Pembangkit Energi Terbarukan,11,PLT Hybrid,PLT Hybrid,,GWh,,0.13,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,76,EBT,Produksi listrik,Pembangkit Energi Terbarukan,12,PJUTS,PJUTS,,GWh,,,0.01155472032,,7.08304355616,0.9916260978624001,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,77,EBT,Produksi listrik,Pembangkit Energi Terbarukan,13,LTSHE,LTSHE,,GWh,,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,78,EBT,Subtotal,,,Subtotal EBT  Listrik,Subtotal EBT  Listrik,,,,,,,672670.6340975366,94173.88877365511,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2024,79,EBT,Total,,,Total Pasokan Energi Baru Terbarukan,Total Pasokan Energi Baru Terbarukan,,,,,,,1665280.5253153814,233139.2735441534,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New tanpa kayu bakar 2024.xlsx
+2025,10,Minyak Bumi,Konsumsi,BBM,1,Ron 98/95,Ron 98/95,,KL,5.8275,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,11,Minyak Bumi,Konsumsi,BBM,2,Ron 92,Ron 92,,KL,5.8275,,60166.58,,350620.74494999996,49086.904293,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,12,Minyak Bumi,Konsumsi,BBM,3,Ron 90/88/89,Ron 90/88/89,,KL,5.8275,,341653.683,,1990986.8376825,278738.15727555,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,13,Minyak Bumi,Konsumsi,BBM,4,Solar 48/51/53 (Murni),Solar 48/51/53 (murni),,KL,6.4871,,28439.534,,184490.1010114,25828.614141596,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,14,Minyak Bumi,Konsumsi,BBM,5,Biosolar 48/51 (B40 ),Biosolar 48/51 (campuran B),B40,KL,6.4871,,259042.20779999997,,1680432.7062193798,235260.5788707132,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,15,Minyak Bumi,Konsumsi,BBM,6,Biosolar 48/51 (B35),Biosolar 48/51 (campuran B),B35,KL,6.4871,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,16,Minyak Bumi,Konsumsi,BBM,7,Minyak Tanah,Minyak Tanah,,KL,5.9274,,110640.6,,655811.09244,91813.55294160002,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,17,Minyak Bumi,Konsumsi,BBM,8,Minyak Bakar 180/380 (MFO),Minyak Bakar 180/380 (MFO),,KL,6.9612,,22911.931,,159494.5340772,22329.234770808,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,18,Minyak Bumi,Konsumsi,BBM,9,Minyak Diesel (IDO),Minyak Diesel (IDO),,KL,6.6078,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,19,Minyak Bumi,Konsumsi,BBM,10,Avgas,Avgas,,KL,5.553,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,20,Minyak Bumi,Konsumsi,BBM,11,Avtur,Avtur,,KL,5.8907,,398.69,,2348.5631829999998,328.79884562,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,21,Minyak Bumi,Konsumsi,BBM,12,Biogasoline (E5),Biogasoline (E5),,KL,5.8275,,0.0,,0.0,0.0,*) disesuaikan dengan porsi campuran,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,24,Minyak Bumi,Konsumsi,LPG,1,LPG,LPG,,Mton,8.5246,,2340.5725,,19952.4443335,2793.3422066900002,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,25,Minyak Bumi,Total,,,Total Pasokan Minyak Bumi,Total Pasokan Minyak Bumi,,,,,,,5044137.02389698,706179.1833455772,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,28,Gas Bumi,Konsumsi,Jaringan Gas Kota,I,Jaringan Gas Kota,Jaringan Gas Kota,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,29,Gas Bumi,Konsumsi,Pembangkit,II,Pembangkit,Pembangkit,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,30,Gas Bumi,Konsumsi,Industri,III,Industri,Industri,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,31,Gas Bumi,Konsumsi,Komersial,IV,Komersial,Komersial,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,32,Gas Bumi,Konsumsi,Transportasi,V,Transportasi,Transportasi,,mscf,0.1796,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,33,Gas Bumi,Total,,,Total Pasokan Gas Bumi,Total Pasokan Gas Bumi,,,,,,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,36,Batubara,Konsumsi,Pembangkit,I,Pembangkit,Pembangkit,,ton,3.4554,,559968.0,,1934913.4272,270887.87980800006,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,37,Batubara,Konsumsi,Industri,II,Industri,Industri,,ton,3.4554,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,38,Batubara,Total,,,Total Pasokan Batubara,Total Pasokan Batubara,,,,,,,1934913.4272,270887.87980800006,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,41,EBT,Konsumsi,FAME,I,FAME,FAME (semua campuran B),FAME,KL,6.4871,,172694.8052,,1120288.47081292,156840.38591380883,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,42,EBT,Konsumsi,FAME,2,B35,FAME (semua campuran B),B35,KL,6.4871,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,43,EBT,Konsumsi,Etanol,II,Etanol,Etanol (E5),Etanol,KL,5.8275,,0.0,,0.0,0.0,*) disesuaikan dengan porsi campuran,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,44,EBT,Konsumsi,Biogas Rumah Tangga,III,Biogas Rumah Tangga,Biogas Rumah Tangga,,m3/tahun,0.006341676000000001,,616140.0,,3907.3602506400007,547.0304350896001,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,45,EBT,Konsumsi,Biomassa,IV,Biomassa,Biomassa,,ton,2.5629,,167484.926,,429247.1168454,60094.59635835601,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,46,EBT,Konsumsi,Kayu Bakar,V,Kayu Bakar,Kayu Bakar,,ton,2.5629,,0.0,,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,47,EBT,Subtotal,,,Subtotal EBT Non Listrik,Subtotal EBT Non Listrik,,,,,,,1553442.94790896,217482.01270725444,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,51,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,1,PLTP,PLTP,,MW,,0.9,24.082,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,52,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,2,PLTA,PLTA,,MW,,0.6,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,53,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,3,PLTMH,PLTMH,,MW,,0.6,6.17,2.7072,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,54,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,4,PLTM,PLTM,,MW,,0.6,3.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,55,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,5,PLTS,PLTS,,MW,,0.2,20.371,4.05944,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,56,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,6,PLTS Atap,PLTS Atap,,MW,,0.2,0.0,0.590235,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,57,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,7,PLTB,PLTB,,MW,,0.5,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,58,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,8,PLTBM,PLTBM,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,59,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,9,PLTBG,PLTBG,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,60,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,10,PLTSa,PLTSa,,MW,,0.8,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,61,EBT,Kapasitas terpasang,Pembangkit Energi Terbarukan,11,PLT Hybrid,PLT Hybrid,,MW,,0.17,0.0,0.0,,,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,65,EBT,Produksi listrik,Pembangkit Energi Terbarukan,1,PLTP,PLTP,,GWh,,0.33,189.862488,0.0,352683.9549818182,49375.75369745455,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,66,EBT,Produksi listrik,Pembangkit Energi Terbarukan,2,PLTA,PLTA,,GWh,,0.33,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,67,EBT,Produksi listrik,Pembangkit Energi Terbarukan,3,PLTMH,PLTMH,,GWh,,0.25,32.429520000000004,14.229043199999998,114406.79696640001,16016.951575296003,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,68,EBT,Produksi listrik,Pembangkit Energi Terbarukan,4,PLTM,PLTM,,GWh,,0.25,15.767999999999999,0.0,38663.13599999999,5412.839039999999,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,69,EBT,Produksi listrik,Pembangkit Energi Terbarukan,5,PLTS,PLTS,,GWh,,0.13,35.689992000000004,7.112138880000002,201828.50945723077,28255.99132401231,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,70,EBT,Produksi listrik,Pembangkit Energi Terbarukan,6,PLTS Atap,PLTS Atap,,GWh,,0.13,0.0,1.03409172,4876.140187384615,682.6596262338462,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,71,EBT,Produksi listrik,Pembangkit Energi Terbarukan,7,PLTB,PLTB,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,72,EBT,Produksi listrik,Pembangkit Energi Terbarukan,8,PLTBM,PLTBM,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,73,EBT,Produksi listrik,Pembangkit Energi Terbarukan,9,PLTBG,PLTBG,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,74,EBT,Produksi listrik,Pembangkit Energi Terbarukan,10,PLTSa,PLTSa,,GWh,,0.25,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,75,EBT,Produksi listrik,Pembangkit Energi Terbarukan,11,PLT Hybrid,PLT Hybrid,,GWh,,0.13,0.0,0.0,0.0,0.0,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,76,EBT,Produksi listrik,Pembangkit Energi Terbarukan,12,PJUTS,PJUTS,,GWh,,,0.003334056,,2.0437763280000003,0.28612868592000007,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,77,EBT,Produksi listrik,Pembangkit Energi Terbarukan,13,LTSHE,LTSHE,,GWh,,,0.002492512,,1.5279098560000002,0.21390737984000005,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,78,EBT,Subtotal,,,Subtotal EBT  Listrik,Subtotal EBT  Listrik,,,,,,,712462.1092790175,99744.69529906247,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx
+2025,79,EBT,Total,,,Total Pasokan Energi Baru Terbarukan,Total Pasokan Energi Baru Terbarukan,,,,,,,2265905.0571879777,317226.7080063169,,Worksheet Perhitungan Bauran Energi Daerah -- Provinsi New 2025.xlsx

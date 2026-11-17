@@ -25,6 +25,7 @@ Filter [`scenario_overrides.csv`](../data/structure/scenario_overrides.csv) on `
 | `scripts/export_structure.py` | `data/original/All LEAP Data.xlsx` (sheet `All Data`) | `data/structure/*`, `data/dataflow/branch_links.csv`, `sector_links.csv` |
 | `scripts/build_flow_tables.py` | `data/dataflow/branch_links.csv` | `key_to_demand_by_source.csv`, `transformation_inputs.csv`, `chain_summary.csv` |
 | `scripts/split_workbooks.py` | workbooks in `data/` | one CSV per sheet |
+| `scripts/compile_bauran_energi.py` | five yearly ESDM `Worksheet Perhitungan Bauran Energi Daerah` workbooks (`data/calibration/source_worksheets/`) | `data/calibration/Bauran_Energi_Daerah_NTT_2021-2025.xlsx` and `bauran_energi/*.csv` |
 
 Run from the repository root with Python 3.10+, `pandas` and `openpyxl`. Never edit generated CSV files by hand.
 

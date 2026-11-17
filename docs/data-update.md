@@ -12,7 +12,7 @@ The Key Assumptions already hold **2019–2025**. For the next update:
 | Vehicle stock, sales, passengers | BPS / Dinas | `Transportasi` | `Key\Transportasi\*` |
 | Schools, health facilities, hotels, retail, tourists | BPS / Dinas | `Komersil` | `Key\Bangunan Komersial\*` |
 | Industry fuel use | survey / Dinas | `Industry` | `Demand\Industri\*\Total Energy` |
-| Plants, capacity, production, fuel | DESDM NTT | `Historical Energy Mix.xlsx` | `Transformation` processes (Current Accounts), Demand fuels |
+| Plants, capacity, production, fuel | ESDM worksheet for NTT (Provinsi, DESDM) | `Worksheet Perhitungan Bauran Energi Daerah` of the new year → add to `scripts/compile_bauran_energi.py` | `Transformation` processes (Current Accounts), Demand fuels |
 | Electricity sales, customers, losses | PLN UIW NTT | `kWh Jual` workbook | `Indicators\Perbandingan demand listrik`, T&D `Losses` |
 
 ## 2. Write into LEAP

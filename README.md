@@ -20,7 +20,7 @@ This repository is written for **the next modeller**: everything needed to under
 flowchart LR
     subgraph DATA["1 Collect data (Excel)"]
         X1["Data untuk RUED NTT 2024.xlsx<br/>BPS, Dinas, PLN, ESDM"]
-        X2["Historical Energy Mix.xlsx<br/>DESDM NTT"]
+        X2["Bauran Energi Daerah NTT 2021-2025.xlsx<br/>ESDM worksheets"]
         X3["Penjualan Tenaga Listrik GWh.xlsx<br/>PLN UIW NTT"]
         X4["Data RUPTL NTT.xlsx<br/>RUPTL 2025-2034"]
     end
@@ -47,7 +47,7 @@ flowchart LR
 * **Demand side** (households, transport, commercial, industry, other) is driven by the Key Assumptions 2019–2025 data and gives the final energy per fuel, *including electricity*.
 * **On-grid power** still uses the **RUPTL** as the load basis for **Plexos**. Three Plexos runs give the capacity pathway that LEAP reads as *Exogenous Capacity*:
   **BaU = RUPTL + Gas**, **Moderate = RUPTL + RE**, **Optimis = Substitusi RE**, all on the **existing NTT grid**.
-* **Off-grid and total primary energy** are calibrated with the **Historical Energy Mix** (DESDM NTT). **Electricity load** is calibrated with **Penjualan Tenaga Listrik (GWh)** (PLN UIW NTT).
+* **Off-grid and total primary energy** are calibrated with the **Bauran Energi Daerah worksheets 2021–2025** (ESDM template for NTT, compiled in `data/calibration/`). **Electricity load** is calibrated with **Penjualan Tenaga Listrik (GWh)** (PLN UIW NTT).
 * Because Plexos was run on the RUPTL demand, **LEAP demand and Plexos generation (incl. losses) do not match yet**. This is the main open item; see [docs/power-plexos.md](docs/power-plexos.md) for how to close the gap using the LEAP demand projection.
 
 ## Start here
@@ -76,21 +76,21 @@ Full table of contents: [docs/README.md](docs/README.md).
 | [`model/`](model/) | The LEAP archive `RUED NTT 2027-2038 Agustus 2026.leap` (54 MB, Git LFS) |
 | [`data/inputs/`](data/inputs/) | Raw collected data (BPS, Dinas, PLN …), one CSV per sheet of *Data untuk RUED NTT 2024.xlsx* |
 | [`data/keyassumptions/`](data/keyassumptions/) | Key Assumptions as yearly values 2019–2050 exported from LEAP |
-| [`data/calibration/`](data/calibration/) | Historical Energy Mix (DESDM NTT) and PLN electricity sales (PLN UIW NTT) |
+| [`data/calibration/`](data/calibration/) | Bauran Energi Daerah NTT 2021–2025 (ESDM calibration, compiled) and PLN electricity sales (PLN UIW NTT) |
 | [`data/power/`](data/power/) | `ruptl/` (RUPTL tables), `plexos/` (3 Plexos pathways + existing NTT plants), `load_shapes/` (load, wind, solar, lifecycle profiles) |
 | [`data/structure/`](data/structure/) | Every branch and every expression exported from LEAP (generated) |
 | [`data/dataflow/`](data/dataflow/) | Every branch-to-branch link found in the expressions (generated) |
 | [`data/results/`](data/results/) | LEAP results used for the RUED report tables and figures, RUEN comparison |
 | [`data/original/`](data/original/) | The original Excel workbooks (Git LFS) for formulas and formatting |
 | [`docs/`](docs/) | Documentation |
-| [`scripts/`](scripts/) | `export_structure.py`, `build_flow_tables.py`, `split_workbooks.py` |
+| [`scripts/`](scripts/) | `export_structure.py`, `build_flow_tables.py`, `split_workbooks.py`, `compile_bauran_energi.py`, `grid_gap_analysis.py` |
 
 ## Typical workflow
 
 ```
 1. Update data     add the new year (2026) to the Excel data  →  Key Assumptions in LEAP (docs/data-update.md)
 2. Power system    update Plexos with the new RUPTL / demand   →  paste capacities into Transformation (docs/power-plexos.md)
-3. Calibrate       compare with Historical Energy Mix and PLN sales (docs/calibration.md)
+3. Calibrate       compare with the Bauran Energi Daerah data and PLN sales (docs/calibration.md)
 4. Run & export    run the scenarios, Analysis > Export to Excel (All Data)
 5. Refresh files   python scripts/export_structure.py
                    python scripts/build_flow_tables.py

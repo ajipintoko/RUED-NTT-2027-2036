@@ -9,7 +9,8 @@ All CSV files are plain-text copies (values only) of the sheets of the original 
 | `original/LEAP Result.xlsx` | LEAP results | report tables and figures (`Tabel 2.x`, `Gambar 2.x`), `LEAP Data`, `Export Key Assumption`, `Data Sources`, `List Data Req` |
 | `inputs/*.csv` | Data untuk RUED NTT 2024 | `asumsi_dasar_demografi`, `rumah_tangga`, `transportasi`, `komersial`, `industri`, `lainnya`, `energy_transformation`, `resource`, `power_generation_specification` |
 | `keyassumptions/key_assumptions_yearly.csv` | LEAP Result | every Key Assumption as yearly values (2019–2050), with method |
-| `calibration/historical_energy_mix_desdm.csv` | DESDM NTT | BBM, coal, gas, EBT and electricity by technology 2021–2025 |
+| `calibration/Bauran_Energi_Daerah_NTT_2021-2025.xlsx` (+ `bauran_energi/*.csv`) | ESDM worksheets (5 yearly files compiled by `scripts/compile_bauran_energi.py`) | energy mix, fuels (kL, ton, mscf → BOE), on/off-grid capacity and generation 2021–2025 |
+| `calibration/source_worksheets/*.xlsx` | ESDM worksheets | the five original yearly workbooks |
 | `calibration/pln_uiw_ntt_actual_sales_2020_2025.csv` | PLN UIW NTT (new) | sales (GWh), connected power, customers, tariff, growth 2020–2025 |
 | `calibration/pln_electricity_sales_*.csv` | RUPTL C12.1 / C12.6 | sales 2015–2024 (actual) and 2025–2034 (projection) |
 | `power/ruptl/*.csv` | RUPTL NTT | sales, customers, capacity, demand, RE Base and ARED scenarios, project list, potential |

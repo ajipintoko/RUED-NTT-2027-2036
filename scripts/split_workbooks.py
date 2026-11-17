@@ -12,7 +12,8 @@ Layout written (see data/README.md for what every file is):
     data/keyassumptions/      <- data/original/LEAP Result.xlsx  (sheet 'Export Key Assumption')
     data/results/leap_result/ <- data/original/LEAP Result.xlsx  (all report tables)
     data/results/             <- RUEN for Comparison Nusa Tenggara Region.xlsx
-    data/calibration/         <- Historical Energy Mix.xlsx, Penjualan_Tenaga_Listrik_GWh.xlsx
+    data/calibration/         <- Penjualan_Tenaga_Listrik_GWh.xlsx, PLN_UIW_NTT_kWh_Jual_2020_2025.xlsx
+    (the Bauran Energi Daerah workbook is built by scripts/compile_bauran_energi.py)
     data/power/ruptl/         <- Data_RUPTL_NTT.xlsx
     data/power/plexos/        <- Plexos Result to LEAP.xlsx
     data/power/load_shapes/   <- data/original/All LEAP Data.xlsx (load / wind / solar profiles, lifecycle)
@@ -49,7 +50,6 @@ JOBS = [
     ("data/results/RUEN for Comparison Nusa Tenggara Region.xlsx", "data/results", [], {
         "2030": "ruen_nusa_tenggara_2030", "2035": "ruen_nusa_tenggara_2035",
         "Perbandingan 2030-2035": "ruen_nusa_tenggara_comparison"}),
-    ("data/calibration/Historical Energy Mix.xlsx", "data/calibration", [], {"Sheet1": "historical_energy_mix_desdm"}),
     ("data/calibration/PLN_UIW_NTT_kWh_Jual_2020_2025.xlsx", "data/calibration", [], {"Sheet1": "pln_uiw_ntt_actual_sales_2020_2025"}),
     ("data/calibration/Penjualan_Tenaga_Listrik_GWh.xlsx", "data/calibration", [], {
         "Realisasi 2015-2024": "pln_electricity_sales_actual_2015_2024",

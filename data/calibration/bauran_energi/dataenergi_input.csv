@@ -1,0 +1,200 @@
+Tahun,Baris,Bagian,Item,Satuan,Nilai_1,Nilai_2,Kolom_sumber
+2021,12,Minyak Bumi,MFO 180,KL,38949.0,,8
+2021,16,Minyak Bumi,RON 92,KL,40802.0,,8
+2021,17,Minyak Bumi,RON 90,KL,165275.0,,8
+2021,19,Minyak Bumi,RON 88,KL,160804.0,,8
+2021,21,Minyak Bumi,Solar CN 48 (Murni),KL,7825.0,,8
+2021,22,Minyak Bumi,Solar CN 51 (Murni),KL,2593.0,,8
+2021,23,Minyak Bumi,Solar CN 53 (Murni),KL,7674.0,,8
+2021,24,Minyak Bumi,Kerosene (Minyak Tanah),KL,108412.0,,8
+2021,26,Minyak Bumi,Biogasoil (B30),KL,348999.0,,8
+2021,29,Minyak Bumi,LPG,MT,1559.0,,8
+2021,33,Batubara,Bahan Bakar Pembangkit,Ton,403131.0,,8
+2021,47,Batubara,Bahan Bakar/Baku Industri,Ton,0.0,,8
+2021,63,Gas Bumi,Bahan Bakar Pembangkit,mscf,0.0,,8
+2021,77,Gas Bumi,Bahan Bakar/Baku Industri,mscf,0.0,,8
+2021,91,Gas Bumi,Jaringan Gas Rumah Tangga,mscf,0.0,,8
+2021,105,Gas Bumi,Sektor Komersial,mscf,0.0,,8
+2021,125,Energi Baru Terbarukan (EBT),Biomassa*),Ton,131.0,,8
+2021,127,Energi Baru Terbarukan (EBT),Lainnya,131,131.0,,7
+2021,131,Energi Baru Terbarukan (EBT),Kayu Bakar,Ton,2200020.051346236,,8
+2021,132,Energi Baru Terbarukan (EBT),Jumlah Rumah Tangga di Provinsi,,1200140.0,11254.61,5
+2021,133,Energi Baru Terbarukan (EBT),Prosentase Rumah Tangga Pengguna Kayu Bakar,,0.6928,3500.0,5
+2021,140,Energi Baru Terbarukan (EBT),Kapasitas Biogas Rumah Tangga,m3/tahun,1052262.0,7.249265149566677,8
+2021,160,Listrik,PLTA,,0.0,0.0,5
+2021,166,Listrik,PLTB,,0.0,0.0,5
+2021,172,Listrik,PLT Biogas,,0.0,0.0,5
+2021,178,Listrik,PLT Biomassa,,0.0,0.0,5
+2021,184,Listrik,PLTM,,7.58,0.0,5
+2021,190,Listrik,PLTMH,,0.0,2.58,5
+2021,196,Listrik,PLTP,,12.5,0.0,5
+2021,202,Listrik,PLTS,,16.59,1.306,5
+2021,203,Listrik,PLTS Pos Batas Nelu,,0.006,,6
+2021,204,Listrik,PLTS Pos Manamas,,0.006,,6
+2021,205,Listrik,PLTS Pos Naekake,,0.006,,6
+2021,206,Listrik,PLTS Pos Haslot,,0.006,,6
+2021,207,Listrik,PLTS Pos Fatuha,,0.006,,6
+2021,208,Listrik,PLTS Pos Oepoli,,0.006,,6
+2021,209,Listrik,PLTS,,16.59,1.27,5
+2021,214,Listrik,PLTS Atap,,0.34,0.025,5
+2021,215,Listrik,PLTS Atap Ice Maker di Sulamu,,0.025,,6
+2021,220,Listrik,PLT Hybrid,,0.1,0.04,5
+2021,226,Listrik,PLT Sampah,,0.0,0.0,5
+2021,233,Listrik,PJUTS,,0.0,680000.0,5
+2021,235,Listrik,Kab/Kota …..,,680000.0,,6
+2021,239,Listrik,LTSHE,,286.0,340180.0,5
+2021,241,Listrik,"Desa Lagatene Kec. Wewewa Barat, Desa Taramata dan Desa Marada Wuni Kec. Wewewa Tengah Kab. Sumba Barat Daya",,118.0,30.0,5
+2021,242,Listrik,Desa Mutis Kec. Fatumnasi Kab. TTS,,40.0,30.0,5
+2021,243,Listrik,Desa Satar Lenda Kec. Satar Mese Barat Kab. Manggarai,,42.0,30.0,5
+2021,244,Listrik,Desa Oinbit Kec. Insana Kab. TTU,,40.0,30.0,5
+2021,245,Listrik,Pastoran Bari Kec. Macang Pacar Kab. Manggarai Barat,,6.0,30.0,5
+2021,246,Listrik,Desa Meneate Kec. Wewewa Barat Kab. Sumba Barat Daya,,40.0,30.0,5
+2022,11,Minyak Bumi,Avtur,KL,31023.7001606432,,8
+2022,12,Minyak Bumi,Minyak Bakar 180,KL,26603.0,,8
+2022,16,Minyak Bumi,Minyak Bensin 92,KL,34498.1842774616,,8
+2022,17,Minyak Bumi,Minyak Bensin 90,KL,348630.191593202,,8
+2022,21,Minyak Bumi,Minyak Solar 48,KL,24771.0178771216,,8
+2022,24,Minyak Bumi,Kerosene (Minyak Tanah),KL,109265.740613998,,8
+2022,26,Minyak Bumi,Biosolar (B30),KL,344794.256683721,,8
+2022,29,Minyak Bumi,LPG,MT,1796.01744719001,,8
+2022,33,Batubara,Bahan Bakar Pembangkit,Ton,511545.017131182,,8
+2022,47,Batubara,Bahan Bakar/Baku Industri,Ton,0.0,,8
+2022,63,Gas Bumi,Bahan Bakar Pembangkit,mscf,0.0,,8
+2022,77,Gas Bumi,Bahan Bakar/Baku Industri,mscf,0.0,,8
+2022,91,Gas Bumi,Jaringan Gas Rumah Tangga,mscf,0.0,,8
+2022,105,Gas Bumi,Sektor Komersial,mscf,0.0,,8
+2022,121,Gas Bumi,Sektor Transportasi,mscf,0.0,,8
+2022,128,Energi Baru Terbarukan (EBT),Biomassa*),Ton,1444.02814212091,,8
+2022,130,Energi Baru Terbarukan (EBT),PLTU co-firing/Lainnya,1444.02814212091,1444.02814212091,,7
+2022,134,Energi Baru Terbarukan (EBT),Kayu Bakar,Ton,0.0,,8
+2022,135,Energi Baru Terbarukan (EBT),Jumlah Rumah Tangga di Provinsi,,0.0,11254.61,5
+2022,136,Energi Baru Terbarukan (EBT),Prosentase Rumah Tangga Pengguna Kayu Bakar,,0.6879,3500.0,5
+2022,143,Energi Baru Terbarukan (EBT),Kapasitas Biogas Rumah Tangga,m3/tahun,1120704.75938869,7.249265149566677,8
+2022,145,Energi Baru Terbarukan (EBT),"Kab Belu, Malaka, Flores Timur",16.2,6.0,9.0,5
+2022,163,Listrik,PLTA,,0.0,0.0,5
+2022,169,Listrik,PLTB,,0.0,0.0,5
+2022,175,Listrik,PLT Biogas,,0.0,0.0,5
+2022,181,Listrik,PLT Biomassa,,0.0,0.0,5
+2022,187,Listrik,PLTM,,7.58,0.0,5
+2022,193,Listrik,PLTMH,,0.13,2.68,5
+2022,194,Listrik,PLTMH Wairara Kab. Sumba Timur,,0.1,,6
+2022,199,Listrik,PLTP,,19.08,0.0,5
+2022,205,Listrik,PLTS,,14.84,4.75,5
+2022,211,Listrik,PLTS Atap,,0.3,0.05,5
+2022,217,Listrik,PLT Hybrid,,0.0,0.0,5
+2022,223,Listrik,PLT Sampah,,0.0,0.0,5
+2022,230,Listrik,PJUTS,,0.0,,5
+2022,236,Listrik,LTSHE,,961.0,,5
+2022,238,Listrik,Kab/Kota …..,,961.0,30.0,5
+2023,11,Minyak Bumi,Avtur,KL,36451.918,,8
+2023,12,Minyak Bumi,Minyak Bakar 180,KL,36539.034,,8
+2023,16,Minyak Bumi,Minyak Bensin 92,KL,32380.955,,8
+2023,17,Minyak Bumi,Minyak Bensin 90,KL,351409.881,,8
+2023,18,Minyak Bumi,Minyak Bensin 89,KL,401937.825,,10
+2023,21,Minyak Bumi,Minyak Solar 48,KL,1639.858,,8
+2023,23,Minyak Bumi,Minyak Solar 53,KL,15366.089,,8
+2023,24,Minyak Bumi,Kerosene (Minyak Tanah),KL,109458.5,,8
+2023,26,Minyak Bumi,Biosolar (B30),KL,401937.825,,8
+2023,29,Minyak Bumi,LPG,MT,1584.613,,8
+2023,33,Batubara,Bahan Bakar Pembangkit,Ton,663495.255935259,,8
+2023,47,Batubara,Bahan Bakar/Baku Industri,Ton,0.0,,8
+2023,63,Gas Bumi,Bahan Bakar Pembangkit,mscf,0.0,,8
+2023,77,Gas Bumi,Bahan Bakar/Baku Industri,mscf,0.0,,8
+2023,91,Gas Bumi,Jaringan Gas Rumah Tangga,mscf,0.0,,8
+2023,105,Gas Bumi,Sektor Komersial,mscf,0.0,,8
+2023,121,Gas Bumi,Sektor Transportasi,mscf,0.0,,8
+2023,128,Energi Baru Terbarukan (EBT),Biomassa*),Ton,1985.07,,8
+2023,130,Energi Baru Terbarukan (EBT),PLTU co-firing/Lainnya,1985.07,1985.07,,7
+2023,134,Energi Baru Terbarukan (EBT),Kayu Bakar,Ton,0.0,,8
+2023,135,Energi Baru Terbarukan (EBT),Jumlah Rumah Tangga di Provinsi,,0.0,11254.61,5
+2023,136,Energi Baru Terbarukan (EBT),Prosentase Rumah Tangga Pengguna Kayu Bakar,,0.6811,3500.0,5
+2023,143,Energi Baru Terbarukan (EBT),Kapasitas Biogas Rumah Tangga,m3/tahun,1040133.58720732,3.6246325747833383,8
+2023,163,Listrik,PLTA,,0.0,0.0,5
+2023,169,Listrik,PLTB,,0.09,0.0,5
+2023,175,Listrik,PLT Biogas,,0.0,0.0,5
+2023,181,Listrik,PLT Biomassa,,0.0,0.0,5
+2023,187,Listrik,PLTM,,5.7,0.0,5
+2023,193,Listrik,PLTMH,,1.076,3.5072,5
+2023,199,Listrik,PLTP,,24.081,0.0,5
+2023,205,Listrik,PLTS,,19.051,3.40124,5
+2023,211,Listrik,PLTS Atap,,0.44,0.0,5
+2023,217,Listrik,PLT Hybrid,,0.0,0.0,5
+2023,223,Listrik,PLT Sampah,,0.0,0.0,5
+2023,230,Listrik,PJUTS,,0.0,,5
+2023,236,Listrik,LTSHE,,91.0,,5
+2023,238,Listrik,Kab/Kota …..,,91.0,30.0,5
+2024,11,Minyak Bumi,Avtur,KL,32646.187,,8
+2024,12,Minyak Bumi,Minyak Bakar 180,KL,24490.329,,8
+2024,16,Minyak Bumi,Minyak Bensin 92,KL,45169.101,,8
+2024,17,Minyak Bumi,Minyak Bensin 90,KL,353555.278,,8
+2024,18,Minyak Bumi,Minyak Bensin 89,KL,401937.825,,10
+2024,21,Minyak Bumi,Minyak Solar 48,KL,1338.803,,8
+2024,22,Minyak Bumi,Minyak Solar 51,KL,431.1,,8
+2024,23,Minyak Bumi,Minyak Solar 53,KL,14758.751,,8
+2024,24,Minyak Bumi,Kerosene (Minyak Tanah),KL,110608.6,,8
+2024,26,Minyak Bumi,Biosolar (B30),KL,427627.028,,8
+2024,29,Minyak Bumi,LPG,MT,1755.842,,8
+2024,33,Batubara,Bahan Bakar Pembangkit,Ton,496528.063,,8
+2024,47,Batubara,Bahan Bakar/Baku Industri,Ton,0.0,,8
+2024,63,Gas Bumi,Bahan Bakar Pembangkit,mscf,0.0,,8
+2024,77,Gas Bumi,Bahan Bakar/Baku Industri,mscf,0.0,,8
+2024,91,Gas Bumi,Jaringan Gas Rumah Tangga,mscf,0.0,,8
+2024,105,Gas Bumi,Sektor Komersial,mscf,0.0,,8
+2024,121,Gas Bumi,Sektor Transportasi,mscf,0.0,,8
+2024,128,Energi Baru Terbarukan (EBT),Biomassa*),Ton,5171.5433721199,,8
+2024,130,Energi Baru Terbarukan (EBT),PLTU co-firing/Lainnya,5171.5433721199,5171.5433721199,,7
+2024,134,Energi Baru Terbarukan (EBT),Kayu Bakar,Ton,0.0,,8
+2024,135,Energi Baru Terbarukan (EBT),Jumlah Rumah Tangga di Provinsi,,0.0,11254.61,5
+2024,136,Energi Baru Terbarukan (EBT),Prosentase Rumah Tangga Pengguna Kayu Bakar,,0.6811,3500.0,5
+2024,143,Energi Baru Terbarukan (EBT),Kapasitas Biogas Rumah Tangga,m3/tahun,613440.0,3.6246325747833383,8
+2024,163,Listrik,PLTA,,0.0,0.0,5
+2024,169,Listrik,PLTB,,0.09,0.0,5
+2024,175,Listrik,PLT Biogas,,0.0,0.0,5
+2024,181,Listrik,PLT Biomassa,,0.0,0.0,5
+2024,187,Listrik,PLTM,,5.7,0.0,5
+2024,193,Listrik,PLTMH,,1.876,2.7072,5
+2024,199,Listrik,PLTP,,24.08,0.0,5
+2024,205,Listrik,PLTS,,19.6569,2.7786999999999997,5
+2024,211,Listrik,PLTS Atap,,0.141255,0.0,5
+2024,217,Listrik,PLT Hybrid,,0.0,0.0,5
+2024,223,Listrik,PLT Sampah,,0.0,0.0,5
+2024,230,Listrik,PJUTS,,3459.0,1.04,5
+2024,232,Listrik,Kab/Kota …..,,3459.0,30.0,5
+2024,233,Listrik,Kab/Kota …..,,1040.0,,9
+2024,236,Listrik,LTSHE,,0.0,0.65,5
+2024,238,Listrik,Kab/Kota …..,,0.65,,6
+2025,11,Minyak Bumi,Avtur,KL,398.69,,8
+2025,12,Minyak Bumi,Minyak Bakar 180,KL,22911.931,,8
+2025,16,Minyak Bumi,Minyak Bensin 92,KL,60166.58,,8
+2025,17,Minyak Bumi,Minyak Bensin 90,KL,341653.683,,8
+2025,21,Minyak Bumi,Minyak Solar 48,KL,11717.695,,8
+2025,23,Minyak Bumi,Minyak Solar 53,KL,16721.839,,8
+2025,24,Minyak Bumi,Kerosene (Minyak Tanah),KL,110640.6,,8
+2025,25,Minyak Bumi,Biosolar (B40),KL,431737.013,,8
+2025,29,Minyak Bumi,LPG,MT,2340.5725,,8
+2025,33,Batubara,Bahan Bakar Pembangkit,Ton,559968.0,,8
+2025,47,Batubara,Bahan Bakar/Baku Industri,Ton,0.0,,8
+2025,63,Gas Bumi,Bahan Bakar Pembangkit,mscf,0.0,,8
+2025,77,Gas Bumi,Bahan Bakar/Baku Industri,mscf,0.0,,8
+2025,91,Gas Bumi,Jaringan Gas Rumah Tangga,mscf,0.0,,8
+2025,105,Gas Bumi,Sektor Komersial,mscf,0.0,,8
+2025,121,Gas Bumi,Sektor Transportasi,mscf,0.0,0.0,5
+2025,128,Energi Baru Terbarukan (EBT),Biomassa*),Ton,167484.926,,8
+2025,130,Energi Baru Terbarukan (EBT),PLTU co-firing/Lainnya,167484.926,167484.926,,7
+2025,134,Energi Baru Terbarukan (EBT),Kayu Bakar,Ton,0.0,,8
+2025,135,Energi Baru Terbarukan (EBT),Jumlah Rumah Tangga di Provinsi,,11254.61,,11
+2025,136,Energi Baru Terbarukan (EBT),Prosentase Rumah Tangga Pengguna Kayu Bakar,,3500.0,,11
+2025,143,Energi Baru Terbarukan (EBT),Kapasitas Biogas Rumah Tangga,m3/tahun,616140.0,0.0,8
+2025,163,Listrik,PLTA,,0.0,0.0,5
+2025,169,Listrik,PLTB,,0.0,0.0,5
+2025,175,Listrik,PLT Biogas,,0.0,0.0,5
+2025,181,Listrik,PLT Biomassa,,0.0,0.0,5
+2025,187,Listrik,PLTM,,3.0,0.0,5
+2025,193,Listrik,PLTMH,,6.17,2.7072,5
+2025,199,Listrik,PLTP,,24.082,0.0,5
+2025,205,Listrik,PLTS,,20.371,4.05944,5
+2025,211,Listrik,PLTS Atap,,0.0,0.590235,5
+2025,217,Listrik,PLT Hybrid,,0.0,0.0,5
+2025,223,Listrik,PLT Sampah,,0.0,0.0,5
+2025,230,Listrik,PJUTS,,0.0,1038.0,5
+2025,236,Listrik,LTSHE,,0.0,776.0,5
